@@ -51,3 +51,22 @@ If running on localhost:8080, follow the next steps:
 4 - Expand the "biomine-controller" section
 5 - Open one funcionality, and click in "Try it out" to access it
 
+## Citing bioMine
+
+Hayda Almeida, Ludovic Jean-Louis, Marie-Jean Meurs
+[**An open source and modular search engine for biomedical literature retrieval**](http://labunix.uqam.ca/~meurs_m/publications/coin_2017.pdf), Computational Intelligence. July 2017 doi: 10.1111/coin.12125
+
+
+```
+@article{almeida2018open,
+  title={An open source and modular search engine for biomedical literature retrieval},
+  author={Almeida, Hayda and Jean-Louis, Ludovic and Meurs, Marie-Jean},
+  journal={Computational Intelligence},
+  volume={34},
+  number={1},
+  pages={200--218},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+```
+
