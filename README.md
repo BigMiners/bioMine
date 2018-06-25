@@ -54,7 +54,10 @@ If running on localhost:8080, follow the next steps:
 ## Citing bioMine
 
 Hayda Almeida, Ludovic Jean-Louis, Marie-Jean Meurs
-[**An open source and modular search engine for biomedical literature retrieval**](http://labunix.uqam.ca/~meurs_m/publications/coin_2017.pdf), Computational Intelligence. July 2017 doi: 10.1111/coin.12125
+
+[**An open source and modular search engine for biomedical literature retrieval**](http://labunix.uqam.ca/~meurs_m/publications/coin_2017.pdf),
+
+ Computational Intelligence. July 2017 doi: 10.1111/coin.12125
 
 
 ```
