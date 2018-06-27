@@ -11,45 +11,59 @@ bioMine is publicly released as an open‐source system under the MIT license.
 bioMine source code requires Maven (https://maven.apache.org) for compilation.
 To compile from source, follow the next steps after cloning the repository: 
 
-1 - From the main bioMine project directory, compile the code:
-$~ mvn compile 
-or
-$~ mvn test-compile
+1 - From the main bioMine project directory, compile the code and generate executable .jar files:
+```
+mvn clean install
+```
 
-2 - From the same directory, generate the executable .jar files:
-$~ mvn package
+## Preparing Solr + environment
 
+1 - Install the bioLinker dependency
+```
+mvn install:install-file -Dfile=/path/to/bioLinker-1.0-SNAPSHOT.jar -DgroupId=csfg \
+ -DartifactId=bioLinker -Dversion=1.0-SNAPSHOT -Dpackaging=jar       
+```
+*Note:  /path/to/bioLinker-1.0-SNAPSHOT.jar should be replaced by the path to the jar located in biomine-index/src/lib.*
 
-## Running bioMine 
-
-1 - Prepare a config.properties file with proper paths and configurations.
-For this, use the config.properties.DEFAULT provided in the repository.
-
-2 - Dowload and install/unzip Solr
+2 - Download and install/unzip Solr
 (https://lucene.apache.org/solr/guide/6_6/getting-started.html)
 
 3 - Run SolrCloud, following the instructions
 (https://lucene.apache.org/solr/guide/7_1/getting-started-with-solrcloud.html)
 
-4 - To run bioMine, use:
-$~ java -DbioMine.config=config.properties -jar biomine-service/target/biomine-service-1.0-SNAPSHOT.jar
+4 - To use bioMine index schemas and configuration for Solr, check the instructions at the README file in the bioMine ```solr``` folder.
 
+5 - Prepare a config.properties file with proper paths and configurations.
+ For this, use the config.properties.DEFAULT provided in the repository.
+ Make sure that the variable ```server.url``` is pointing to the active Solr-zookeper port.
+```
+ server.url=localhost:9983
+```
+*Note:  default should be 9983 (8983 + 1000)*
+
+
+## Running bioMine 
+
+1 - To run bioMine, use:
+``` 
+java -DbioMine.config=config.properties -jar biomine-service/target/biomine-service-1.0-SNAPSHOT.jar
+```
 
 ## Using bioMine 
 
 After following the previous steps, bioMine will likely be running on localhost:8080.
 Requests can be sent and received through CURL, such as
 
-$~ curl -X GET --header 'Accept: application/json' 'http://localhost:8080/biomine/indexer/index/status'
-
-To access querying and indexing funcionalities through REST, we suggest using Petstore Swagger.
+```
+curl -X GET --header 'Accept: application/json' 'http://localhost:8080/biomine/indexer/index/status'
+```
+To access querying and indexing funcionalities through REST, we suggest using Swagger.
 If running on localhost:8080, follow the next steps:
+1 - Go to http://localhost:8080/swagger-ui.html
+2 - Click on "biomine-controller" to expand section
+3 - To use a funcionality, fill out the required fields, and click on "try it out" to submit it
 
-1 - Go to http://petstore.swagger.io/
-2 - In the main top bar, replace "https://petstore.swagger.io/v2/swagger.json" by "http://localhost:8080/v2/api-docs"
-3 - Click "Explore"
-4 - Expand the "biomine-controller" section
-5 - Open one funcionality, and click in "Try it out" to access it
+
 
 ## Citing bioMine
 
