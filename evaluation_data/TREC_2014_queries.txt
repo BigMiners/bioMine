@@ -1,0 +1,31 @@
+TREC2014_1	58-year-old woman with hypertension and obesity presents with exercise-related episodic chest pain radiating to the back.
+TREC2014_2	8-year-old boy with 2 days of loose stools, fever, and cough after returning from a trip to Colorado. Chest x-ray shows bilateral lung infiltrates.
+TREC2014_3	 58-year-old female non-smoker with left lung mass on x-ray. Head CT shows a solitary right frontal lobe mass.
+TREC2014_4	2-year-old boy with fever and irritability for 5 days. Physical exam findings include conjunctivitis, strawberry tongue, and desquamation of the fingers and toes. Lab results include low albumin, elevated white blood cell count and C-reactive protein, and urine leukocytes. Echo shows moderate dilation of the coronary arteries.
+TREC2014_5	56-year-old woman presents with shortness of breath 3 weeks after surgical mastectomy. Physical exam is significant for right calf tenderness and decreased breath sounds at the right base. Her D-dimer level is elevated.
+TREC2014_6	64-year-old woman with uncontrolled diabetes, now with an oozing, painful skin lesion on her left lower leg.
+TREC2014_7	26-year-old obese woman with bipolar disorder, on zolpidem and lithium, with recent difficulty sleeping, agitation, suicidal ideation, and irritability.
+TREC2014_8	62-year-old man with progressive memory loss and involuntary leg movements. Brain MRI reveals cortical atrophy, and cortical biopsy shows vacuolar gray matter changes with reactive astrocytosis.
+TREC2014_9	43-year-old woman with soft, flesh-colored, pedunculated lesions on her neck.
+TREC2014_10	67-year-old woman status post cardiac catheterization via right femoral artery, now with a cool, pulseless right foot and right femoral bruit.
+TREC2014_11	40-year-old woman with severe right arm pain and hypotension. She has no history of trauma and right arm exam reveals no significant findings.
+TREC2014_12	25-year-old woman with fatigue, hair loss, weight gain, and cold intolerance for 6 months.
+TREC2014_13	30-year-old woman who is 3 weeks post-partum, presents with shortness of breath, tachypnea, and hypoxia.
+TREC2014_14	85-year-old man who was in a car accident 3 weeks ago, now with 3 days of progressively decreasing level of consciousness and impaired ability to perform activities of daily living.
+TREC2014_15	36-year-old woman with amenorrhea, abdominal tenderness, enlarged uterus, and cervical dilation. Urine pregnancy test is negative. Ultrasound reveals an enlarged uterus with multiple cystic areas, which could be consistent with vesicular mole and fibroid degeneration.
+TREC2014_16	28-year-old female with neck pain and left arm numbness 3 weeks after working with stray animals. Physical exam initially remarkable for slight left arm tremor and spasticity. Three days later she presented with significant arm spasticity, diaphoresis, agitation, difficulty swallowing, and hydrophobia.
+TREC2014_17	48-year-old man with common variable immunodeficiency presents with abdominal pain and fever. Ultrasound reveals hepatomegaly and free intraperitoneal fluid. A ruptured liver abscess is found and drained during exploratory laparotomy.
+TREC2014_18	6-month-old male with decreased urine output and edema several hours after surgery. He is hypertensive and tachycardic, has a high BUN and creatinine, and urine microscopy reveals red blood cells and granular casts.
+TREC2014_19	52-year-old man with history of smoking and heavy drinking, now with progressive dysphagia and 25-pound weight loss.
+TREC2014_20	32-year-old unbelted driver status post car accident. Has multiple extremity fractures and severe abdominal pain with rebound and guarding.
+TREC2014_21	21-year-old female with progressive arthralgias, fatigue, and butterfly-shaped facial rash. Labs are significant for positive ANA and anti-double-stranded DNA, as well as proteinuria and RBC casts.
+TREC2014_22	15-year-old girl with right lower quadrant abdominal pain, decreased appetite, and enlarged appendix on abdominal ultrasound.
+TREC2014_23	63-year-old heavy smoker with productive cough, shortness of breath, tachypnea, and oxygen requirement. Chest x-ray shows hyperinflation with no consolidation.
+TREC2014_24	 33-year-old male presents with severe abdominal pain one week after a bike accident in which he sustained abdominal trauma. He is hypotensive and tachycardic, and imaging reveals a ruptured spleen and intraperitoneal hemorrhage.
+TREC2014_25	8-year-old boy with decreased level of consciousness 30 minutes after falling from his bike and hitting his head. He was not wearing a helmet. In the ER he was bradycardic and hypertensive, and the neurosurgeon strongly advised immediate treatment.
+TREC2014_26	Group traveling to the Amazon rainforest, including 3 pregnant women. All members' immunizations are up-to-date but they require malaria prophylaxis.
+TREC2014_27	21-year-old male with dozens of small polyps found on colonoscopy. Family history significant for both older siblings having total colectomies after colonoscopy revealed hundreds of adenomas.
+TREC2014_28	31-year-old female with amenorrhea, milky nipple discharge, negative urine pregnancy test, and elevated prolactin level.
+TREC2014_29	51-year-old smoker with hypertension and diabetes, in menopause, needs recommendations for preventing osteoporosis.
+TREC2014_30	72-year-old man with calf pain while walking uphill. History of ischemic heart disease and worsening hypertension despite medication compliance. On physical exam he has a right carotid bruit and his lower extremities are cool, with diminished dorsalis pedis pulses.
+

@@ -1,0 +1,24 @@
+myco_1	alpha-amylase from Cryptococcus flavus activity characterization
+myco_2	Aspergillus fumigatus beta-glucosidase purification and characterization
+myco_3	characterization of GH5 beta-mannanase enzyme from Aspergillus niger
+myco_4	characterization of GH16 beta-glucanase from Aspergillus fumigatus
+myco_5	purification and characterization of an exo-polygalacturonase from Fusarium oxysporum
+myco_6	Phanerochaete chrysosporium GH61 purification and characterization
+myco_7	purification and characterization of an alpha-L-rhamnosidase from Aspergillus nidulans
+myco_8	xylanase characterization from Leucoagaricus gongylophorus
+myco_9	recombinant expression and characterization of xylanase from Trichoderma reesei
+myco_10	bifunctional alpha-L-arabinofuranosidase/xylobiohydrolase from Penicillium purpurogenum
+myco_11	enzymatic properties alpha-mannosidase Aspergillus saitoi
+myco_12	characterization of Magnaporthe oryzae cellobiohydrolase
+myco_13	substrate specificity of alpha-L-arabinofuranosidase from Aspergillus awamori
+myco_14	cloning and characterization Candida albicans chitinase
+myco_15	characterization of Candida albicans maltase
+myco_16	beta-14-galactanases from Humicola insolens and Myceliophthora thermophila
+myco_17	Neotyphodium sp beta-16-glucanase expression and characterization
+myco_18	purification of endo-beta-13-galactanase from Flammulina velutipes
+myco_19	Aspergillus oryzae beta-xylosidase optimum pH and temperature
+lyso_1	Lysozyme character*
+lyso_2	Lysozyme characterization assay
+lyso_3	Lysozyme activity assay
+lyso_4	Lysozyme bacteriolytic activity
+lyso_5	lysozyme antimicrobial activity

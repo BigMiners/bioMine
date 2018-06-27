@@ -1,0 +1,51 @@
+#specify the url to the zookeeper-solr address
+server.url=localhost:2181
+
+#specify the existent collection names - default first (use "," as separator)
+collections=literature,csfgGff,csfgFasta,csfgAnnotation
+
+#specify the name of existent shards (use "," as separator)
+shards=localhost:8000/solr/shardname1_replicaname1,localhost:8983/solr/shardname2_replicaname2
+
+############
+# indexing #
+############
+
+#mapping of genome name and version
+genomeMap.path=./genomeMap
+
+#extension of the files to index use "," as separator
+data.file.ext=.gz,.tar.gz,.nxml,.xml
+#
+#size of the document queue
+indexing.queueSize=10000
+#
+#number of threads used to push documents to Solr
+#indexing.nbPushThreads=5 means that 5 documents will be pushed to Solr at the same time
+indexing.nbPushThreads=30
+
+# fake push -- if set to true the documents will not be sent to the solr index
+fake.push=false
+
+# allows to set the commitWhithin parameter for documents when bioMine handles the commit instead of solr
+# by default the commit will be applied only when deleting documents from the index
+default.commitWhithinInMs=500
+
+############
+# querying #
+############
+#path to stopwords file to be removed from query
+queryStopwords.path=./queryStopwords
+#
+#path to question words file to be considered in query
+questionWords.path=./questionWords
+
+##############
+# entity     #
+# annotation #
+##############
+dictionaries.path=./dictionaries
+# list of entities to be annotated (separated by ",")
+entities=accessionnumber,glycosylation,product_analysis,temperature,fungus,ph,enzyme
+
+

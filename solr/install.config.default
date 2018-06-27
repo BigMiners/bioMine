@@ -1,0 +1,52 @@
+#bioMine relies on Solr to index and search the data.
+#This file specifies the properties that are necessary to setup a Solr for bioMine.
+#Once the Solr index is configured the user does not need to run this script anymore.
+#Note that you should download Solr 6.1.0 and Zookeeper 3.4.6 to user bioMine.
+
+[setupConfigSection]
+######################################################################
+# Zookeeper configuration
+######################################################################
+
+#path to Zookeeper home folder
+zk.home.path=/path/to/zookeeper-3.4.6
+
+#path to Zookeeper data directory (folder where zookeeper internal config and log files are written)
+zk.data.path=
+
+#port to user for Zookeeper (default 2181)
+zk.port=2181
+
+######################################################################
+# Solr configuration
+######################################################################
+
+#path to Solr home folder
+solr.home.path=/path/to/solr-6.1.0
+
+#path to Solr data folder (folder where the index files, log files, etc. are stored)
+solr.data.path=/path/to/solr/data/
+
+#Port to user for Solr
+solr.port=8983
+
+#ip of the host of the solr server
+solr.host=<YOUR_IP_ADDRESS>
+
+#solr configuration folder (contains the index schema.xml, solrconfig.xml, etc.)
+solr.index.config.path=/path/to/conf
+
+#path to solr.xml file
+solr.solrXml=path/to/solr.xml
+
+#number of shards to create in the solr index
+solr.index.nbShards=4
+
+######################################################################
+# bioMine index configuration
+######################################################################
+
+#bioMine collections (collections to create for biomine (use "," as separator))
+biomine.collections=text,biodata
+
+

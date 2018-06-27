@@ -1,0 +1,618 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Chem Biol</journal-id><journal-id journal-id-type="iso-abbrev">ACS Chem. Biol</journal-id><journal-id journal-id-type="publisher-id">cb</journal-id><journal-id journal-id-type="coden">acbcct</journal-id><journal-title-group><journal-title>ACS Chemical Biology</journal-title></journal-title-group><issn pub-type="ppub">1554-8929</issn><issn pub-type="epub">1554-8937</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">24968014</article-id><article-id pub-id-type="pmc">4136679</article-id><article-id pub-id-type="doi">10.1021/cb500402f</article-id><article-categories><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Synthetic, Non-saccharide, Glycosaminoglycan Mimetics
+Selectively Target Colon Cancer Stem Cells</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Patel</surname><given-names>Nirmita
+J.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Karuturi</surname><given-names>Rajesh</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Al-Horani</surname><given-names>Rami A.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Baranwal</surname><given-names>Somesh</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Patel</surname><given-names>Jagrut</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><name><surname>Desai</surname><given-names>Umesh R.</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name><surname>Patel</surname><given-names>Bhaumik B.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="aff3" ref-type="aff">&#x02225;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Hunter Holmes
+McGuire VA Medical Center, Richmond, Virginia 23249, <country>United
+States</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Medicinal Chemistry and Institute for Structural Biology and Drug
+Discovery, <institution>Virginia Commonwealth University</institution>, Richmond, Virginia 23219, <country>United States</country></aff><aff id="aff3"><sup>&#x000a7;</sup>Division of Hematology, Oncology, and Palliative Care,
+Department
+of Internal Medicine and <sup>&#x02225;</sup>Massey Cancer Center, <institution>Virginia
+Commonwealth University</institution>, Richmond, Virginia 23298, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Phone: <phone>804-675-5000</phone> Ext. 4309. Email: <email>bpatel2@mcvh-vcu.edu</email>.</corresp><corresp id="cor2"><label>*</label>Phone: <phone>804-828-7328</phone>. Email: <email>urdesai@vcu.edu</email>.</corresp></author-notes><pub-date pub-type="pmc-release"><day>10</day><month>06</month><year>2015</year></pub-date><pub-date pub-type="epub"><day>10</day><month>06</month><year>2014</year></pub-date><pub-date pub-type="ppub"><day>15</day><month>08</month><year>2014</year></pub-date><volume>9</volume><issue>8</issue><fpage>1826</fpage><lpage>1833</lpage><history><date date-type="received"><day>06</day><month>01</month><year>2014</year></date><date date-type="accepted"><day>10</day><month>06</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2014 American Chemical
+Society</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">Terms of Use</ext-link></license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00402f_0001" id="ab-tgr1"/></p><p>Selective targeting of cancer stem-like
+cells (CSCs) is a paradigm-shifting
+approach. We hypothesized that CSCs can be targeted by interfering
+with functions of sulfated glycosaminoglycans, which play key roles
+in cancer cell growth, invasion and metastasis. We developed a tandem,
+dual screen strategy involving (1) assessing inhibition of monolayer
+versus spheroid growth and (2) assessing inhibition of primary versus
+secondary spheroid growth to identify G2.2, a unique sulfated nonsaccharide
+GAG mimetic (NSGM) from a focused library of 53 molecules, as a selective
+inhibitor of colon CSCs. The NSGM down-regulated several CSC markers
+through regulation of gene transcription, while closely related, inactive
+NSGMs G1.4 and G4.1 demonstrated no such changes. G2.2&#x02019;s effects
+on CSCs were mediated, in part, through induction of apoptosis and
+inhibition of self-renewal factors. Overall, this work presents the
+proof-of-principle that CSCs can be selectively targeted through novel
+NSGMs, which are likely to advance fundamental understanding on CSCs
+while also aiding development of novel therapeutic agents.</p></abstract><funding-group><funding-statement><funding-source>National Institutes of Health, United States</funding-source></funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>cb500402f</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>cb-2014-00402f</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p id="sec1">The cancer
+stem-like cell (CSC)
+hypothesis has attracted attention as a unifying hypothesis that explains
+disease recurrence in the majority of advanced epithelial malignancies
+including colorectal cancer. CSCs typically survive anticancer drug
+treatment and self-renew to eventually reconstitute the entire tumor.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref4">4</xref></sup> The recurrence of tumor is difficult to treat with traditional anticancer
+drugs that primarily target &#x0201c;bulk&#x0201d; cancer cells. A new
+approach is critically needed to prevent disease recurrence arising
+from inability to destroy CSCs.</p><p>Small molecule inhibition of
+CSC self-renewal to eventually eradicate
+tumor is a paradigm-shifting approach and presents major opportunity
+for discovering of novel anticancer drugs. Yet, selective targeting
+of CSC is challenging. CSCs are rare in a tumor cell population, which
+implies that approaches relying on screening of bulk cancer cells
+cannot succeed in identifying CSC-specific agents. Gupta et al. used
+epithelial&#x02013;mesenchymal transition in a breast cancer cell line
+to enhance the proportion of CSCs, which enabled a high-throughput
+screening approach. This effort led to the identification of salinomycin
+as a CSC inhibitor.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> This approach was
+also used recently by the NIH Molecular Libraries Program to identify
+several probes, for example, ML239, ML243, and ML245, as inhibitors
+of breast CSCs.<sup><xref ref-type="bibr" rid="ref6">6</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>We reasoned that a novel approach to target
+CSCs would be modulation
+of glycosaminoglycan (GAG) interactions with growth factors, cytokines,
+or morphogens that play critical roles in CSC growth and/or differentiation.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> Heparan sulfate (HS), a sulfated
+GAG, is a recognized regulator of stem cell growth.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> HS and its sulfation level is also known to induce stem
+cell differentiation.<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> Although the exact molecular mechanism of HS action
+on stem cells remains unelucidated, one postulate is that HS facilitates
+ternary complexation with cell surface proteins, thereby affecting
+growth and/or differentation.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> This ternary
+complexation is likely to depend on HS fine structure, which presents
+a major opportunity for developing highly selective therapeutic strategies.
+Likewise, a chondroitin sulfate (CS)&#x02013;containing proteoglycan
+called CSPG4 is also present on CSCs and is involved in regulating
+cell proliferation, migration, and angiogenesis.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup></p><p>Although HS and CS play major roles in growth and
+differentiation
+of CSCs, they also contribute to bulk tumor cell biology.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> This implies selective targeting of CSCs through
+GAG modulation can be expected to be difficult from the perspective
+of competing GAG modulation of bulk tumor cells also. Yet, we posited
+that the significant difference in growth profiles of the two types
+of cells should enable a selective targeting strategy. This reasoning
+is supported in part by the differential expression of signaling pathway
+components of the two types of cells.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> Further, recent
+evidence indicates that certain glycans may be aberrantly expressed
+in CSCs.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Thus, we hypothesized that intercepting
+appropriate GAG&#x02013;protein interaction(s) may lead to selective
+targeting of CSCs.</p><p>Recently, we developed a range of structurally
+unique, synthetic
+nonsaccharide GAG mimetics (NSGMs, see <xref rid="notes-1" ref-type="notes">Supporting
+Information Figures S1 and S2</xref> for structures).<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> These novel molecules mimic GAG structure through appropriate placement
+of one or more sulfate group(s) on an aromatic scaffold. These NSGMs
+have been found to modulate several biological functions including
+coagulation, angiogenesis, inflammation, and oxidation in which GAGs
+play important roles.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Thus, if a biological
+screen can be designed to exploit the difference(s) in growth characteristics
+between bulk cancer cells and CSCs, then novel synthetic NSGMs that
+selectively target CSCs should be possible to identify.</p><p>Herein,
+we report that screening a library of 53 novel, synthetic,
+and homogeneous NSGMs containing varying levels of sulfation and diverse
+aromatic scaffolds resulted in identification of three NSGMs (i.e.,
+G2.2, G11.1, and G12.2) that selectively inhibit the growth and self-renewal
+properties of colorectal CSCs (Figure <xref rid="fig1" ref-type="fig">1</xref>). The
+CSC inhibition activity was highly sensitive to the structure of the
+NSGM. For example, closely related analogues, G1.4 and G4.1, do not
+induce CSC inhibition. In the process, we have developed a novel tandem,
+dual screening strategy involving inhibition of monolayer versus spheroid
+growth and inhibition of primary (1&#x000b0;) versus secondary (2&#x000b0;)
+spheroid growth that can be very broadly applied for anticancer chemical
+biology and drug discovery. The identified NSGM down-regulated several
+CSC markers through regulation of gene transcription, while closely
+related, inactive NSGMs demonstrated no such changes. Moreover, the
+effects on CSCs were mediated, in part, through induction of apoptosis
+and inhibition of self-renewal factors. Thus, our work presents the
+paradigm that NSGMs (and GAGs) represent a rich, untapped avenue for
+modulation of CSCs.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Selective targeting of colorectal cancer stem-like cells
+(CSCs)
+by tandem, dual screening of a focused sulfated NSGM library of 53
+compounds belonging to 12 scaffolds (see <xref rid="notes-1" ref-type="notes">Supporting
+Information Figures S1 and S2</xref> for all structures). The protocol
+involved differential screening analysis of CSC growth under monolayer
+versus spheroid conditions (labeled &#x0201c;Screen 1&#x0201d;) followed
+by primary versus secondary/tertiary growth (&#x0201c;Screen 2&#x0201d;).
+The screen identified three &#x0201c;lead&#x0201d; NSGMs, of which G2.2
+was especially interesting because its two closely related analogues
+G1.4 and G4.1 were found to be inactive following screen 1 and screen
+2, respectively. All 53 NSGMs were screened at 100 &#x003bc;M concentration.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00402f_0003" id="gr1" position="float"/></fig><sec id="sec2"><title>Results and Discussion</title><sec id="sec2.1"><title>Rationale, Design, and
+Synthesis of Non-saccharide GAG Mimetics
+Library</title><p>Structurally, GAGs are polymers of alternating hexosamine
+and hexuronic acid residues that are variably sulfated resulting in
+a natural library of millions of sequences. The core polysaccharide
+scaffold primarily orients key sulfate groups in three-dimensional
+space for optimal interaction with the target protein.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> Sulfated NSGMs attempt to exploit this concept of functional mimicry
+through sulfate group recognition. In fact, this concept has led to
+the design of sulfated flavonoids<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> and sulfated
+tetrahydroisoquinolines<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> as mimetics of
+a specific sequence in heparin using computational techniques. Likewise,
+sulfated quinazolinones,<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> sulfated benzofurans,<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> and sulfated gallolylglucopyranoses<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> have also been developed as effective mimetics
+of GAGs. These small, synthetic, homogeneous molecules bind in the
+GAG-binding site of proteins resulting in modulation of function.<sup><xref ref-type="bibr" rid="ref20">20</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref></sup> This function could be either agonistic or antagonistic. For example,
+sulfated tetrahydroisoquinolines mimic the interaction of heparin
+with antithrombin and thereby generate agonistic effect.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> In contrast, sulfated benzofurans introduce
+hydrophobic as well as electrostatic interactions and result in an
+antagonistic effect.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup></p><p>Taking into
+account the role of GAGs in CSC growth and differentiation, we predicted
+that a distinct NSGM may selectively target colorectal CSCs. Hence,
+a small library of sulfated NSGMs was selected for screening (see <xref rid="notes-1" ref-type="notes">Supporting Information Figures S1 and S2</xref>). As
+a group, the library represented 12 distinct scaffolds, G1 through
+G12, and 53 unique molecules possessing one to 13 sulfate groups,
+linear length of &#x0223c;8&#x02013;24 &#x000c5; and a range of three-dimensional
+shape from approximately planar (G1 scaffold) to globular (G12). Except
+for the G2&#x02013;G4, G11 and G12 scaffolds, the synthesis of other
+scaffolds has been reported.<sup><xref ref-type="bibr" rid="ref19">19</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref></sup> We report here the synthesis of G2&#x02013;G4 NSGMs (see <xref rid="notes-1" ref-type="notes">Supporting Information Schemes S1&#x02013;S3</xref>).
+The synthesis of these molecules exploited the differential reactivity
+of the 5- and 3&#x02032;-phenolic groups present on quercetin arising
+from the differential intramolecular hydrogen bonding. The differentially
+protected quercetins could then be site-selectively coupled to afford
+either G2 (5&#x02013;5 coupling) or G3 mimetics (3&#x02032;&#x02013;3&#x02032;
+coupling) in high yields. Extension of this technique further led
+to the synthesis of G4 group of NSGMs by coupling G2 with the G1 scaffold.
+The final step is sulfation of the polyphenolic precursor using trialkylamine&#x02013;sulfur
+trioxide complex under microwave conditions<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> (<xref rid="notes-1" ref-type="notes">Supporting Information Schemes S4&#x02013;S8</xref>). It is important to note that the synthetic strategy developed
+here provides novel variably sulfated molecules in high yields and
+high homogeneity (&#x0003e;95% purity).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Results of the tandem, dual screening
+strategy. (A) Screen 1 results
+following primary spheroid growth studies in two colon cancer cell
+lines HCT-116 (p53 wild type, K-RAS mutant, microsatellite instable)
+and HT-29 (p53 mutant, K-RAS wild type, microsatellite stable). The
+20 NSGMs identified for this study were at 100 &#x003bc;M concentration.
+(B) Screen 2 (secondary (2&#x000b0;) and tertiary (3&#x000b0;) growth assays)
+results with hits identified in Screen 1. Note: NSGMs were not added
+to the medium in 2&#x000b0; and 3&#x000b0; growth assays. Red arrows indicate
+positive hits in Screen 1 (A) and Screen 2 (B) (<italic>p</italic> &#x0003c; 0.0005). Data is represented as percent of vehicle-treated
+cells. Error bars represent &#x000b1;1 SEM.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00402f_0004" id="gr2" position="float"/></fig></sec><sec id="sec2.2"><title>Identification of Sulfated NSGMs that Inhibit Growth and Self-Renewal
+of CSCs</title><p>To study the CSC-targeting ability of the sulfated
+NSGMs, we utilized our earlier observation that CSCs/progenitors are
+enhanced several-fold in spheroid culture compared to monolayer culture.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> In fact, colon HT-29 spheroids were found to
+express Leu-rich repeat-containing G-protein coupled receptor 5 (LGR5),
+an established CSC marker,<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> several-fold
+higher than cells grown as monolayers (<xref rid="notes-1" ref-type="notes">Supporting
+Information Figure S3</xref>). More importantly, CSCs grown in spheroid
+condition differ significantly from monolayer counterparts with respect
+to activation of key signaling pathways, for example, Wnt/&#x003b2;-catenin
+signaling among others.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> We exploited this to
+develop a novel screen for identifying molecules that selectively
+target colorectal CSCs. In this screen, sulfated NSGMs that inhibit
+HT-29 growth under spheroid conditions, but not under monolayer conditions,
+were then assessed for retention of 2&#x000b0; and 3&#x000b0; spheroid growth
+inhibition profiles in the absence of NSGM. The latter screen is of
+particular importance as primary spheroid growth although selective
+for CSCs doses not distinguish between non-self-renewing progenitors
+and self-renewing CSCs. Hence, sulfated NSGMs that satisfy this tandem,
+dual screen would preferentially target self-renewing CSCs. From the
+library of 53 sulfated NSGMs, 11 showed &#x0003e;50% inhibition of primary
+sphere formation in HT-29 cells (Figure <xref rid="fig2" ref-type="fig">2</xref>)
+without inducing any meaningful inhibition of monolayer growth (see <xref rid="notes-1" ref-type="notes">Supporting Information Figure S4</xref> for all results).
+These 11 NSGMs belonged to G2, G4, G11, and G12 scaffolds but only
+four of the six G2 molecules, one of the two G4, four of the seven
+G11 and two of the five G12 molecules satisfied the first screen.
+Similar results were observed for HCT-116 colon cancer cell line (Figure <xref rid="fig2" ref-type="fig">2</xref>a), which has a distinct genetic background compared
+to HT-29 cells. Interestingly, the active G2 and G4 NSGMs showed better
+inhibition of HCT-116 CSCs (p53 wild-type) as compared to HT-29 spheroids
+(p53 mutant). In contrast, G11 and G12 NSGMs did not display such
+a consistent trend.</p><p>The 11 sulfated NSGMs were then studied
+for their effect on 2&#x000b0; and 3&#x000b0; sphere formation (HT-29 and
+HCT-116) in Screen 2. By design, this screen reflects a test of true
+self-renewability of CSCs.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup> Single cell suspension
+obtained from primary spheres formed above was then cultured in the
+absence of NSGM. Only three (G2.2, G11.1 and G12.2) showed &#x0003e;50%
+inhibition
+in both 2&#x000b0; and 3&#x000b0; sphere formation in HT-29 cells (Figure <xref rid="fig2" ref-type="fig">2</xref>b). Of these three, G2.2 (a dimeric sulfated flavonoid)
+was especially interesting because two closely related analogues,
+G1.4 (monomeric) and G4.1 (trimeric), completely failed at Screen
+1 and Screen 2 stages, respectively (Figure <xref rid="fig1" ref-type="fig">1</xref>). G2.2, the &#x0201c;lead&#x0201d; NSGM demonstrated a steep dose&#x02013;response
+profile for primary spheroid inhibition with an apparent IC<sub>50</sub> of &#x0223c;58 &#x003bc;M (<xref rid="notes-1" ref-type="notes">Supporting Information
+Figure S5</xref>). Moreover, G2.2 also inhibited spheroid formation
+in HCT-116 (p53 null) and Panc-1 (pancreatic) cancer cell lines with
+essentially identical potency (<xref rid="notes-1" ref-type="notes">Supporting Information
+Figure S6</xref>). The results suggested a more generic applicability
+of CSC-targeting effect of G2.2.</p></sec><sec id="sec2.3"><title>G2.2 Induces Distinct Molecular
+Changes Supporting Phenotypic
+Effects</title><p>As predicted on the basis of results achieved in
+the selective targeting assay, G2.2 inhibited expression of CSCs markers
+and self-renewal factors in HT-29 colon cancer cells confirming its
+CSC-targeting ability. G2.2 reduced the expression of all five CSCs
+markers<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> examined including CD44, CD133, epithelial
+adhesion molecule (EpCAM), LGR5, C-X-C chemokine receptor type 4 (CXCR-4)
+by &#x0223c;25&#x02013;55% (Figure <xref rid="fig3" ref-type="fig">3</xref>a and b).
+In striking contrast, G1.4 and G4.1 displayed no effect on the expression
+of any of the CSCs markers tested (Figure <xref rid="fig3" ref-type="fig">3</xref>a and b). Additionally, flow-cytometric analyses for LGR5 showed
+a similar (39%) reduction in LGR5 (hi) cells following treatment with
+G2.2, but only a modest (&#x0003c;15%) decrease with G1.4 compared to vehicle-treated
+controls (Figure <xref rid="fig3" ref-type="fig">3</xref>c). To confirm that these
+changes are meaningful, we performed two control experiments with
+agents known to up- or down-regulate LGR5. Considering that LGR5 is
+a target of canonical &#x003b2;-catenin signaling,<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> exposure to an activator (GSK-3&#x003b2; inhibitor CHIR-99021)<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> or inhibitor (iCRT14)<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> of &#x003b2;-catenin signaling should predictably alter expression
+of LGR5. Figure <xref rid="fig3" ref-type="fig">3</xref>d results confirm these predictions
+and further support the phenotypic changes induced by G2.2. Likewise,
+similar findings were observed for DCLK1, another intestinal stem
+cell marker that is highly expressed in colon CSCs<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> (see <xref rid="notes-1" ref-type="notes">Supporting Information Figure
+S7</xref>).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Effects of G2.2 and its inactive structural analogues, G1.4 and
+G4.1, on CSC markers. (A and B) shows the effect on the protein expression
+of CSC markers including CD44, EpCAM, CD133, LGR5, and CXCR4, while
+(C) shows flow cytometry profiles of LGR5, a CSC marker, expression
+in spheroids treated with G2.2 (100 &#x003bc;M) or its analogues (100
+&#x003bc;M) as compared to vehicle-treated cells. (D) shows the results
+of treatment with known pharmacological activator (GSK-3&#x003b2; inhibitor,
+CHIR-99021(100 nM)) and inhibitor (iCRT14 (40 nM)) of &#x003b2;-catenin
+pathway, which regulates LGR5 expression, were used as biological
+control to establish appropriate gating for analyses of flow data
+(C). Western blots (A) were performed using antibodies available for
+the studied CSC markers. GAPDH is the house-keeping control. Bar graphs
+(B) show the relative change in expression levels of the marker in
+comparison to vehicle-treated CSCs using densitometry. Error bars
+represent &#x000b1;1 SEM *represents <italic>p</italic> &#x0003c; 0.01 compared
+to respective controls.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00402f_0005" id="gr3" position="float"/></fig><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Effects of G2.2 on the mRNA levels of CSC markers at 6 h (A). Real-time
+quantitative reverse transcriptase polymerase chain reaction was used
+to determine relative mRNA expression of CSC genes and GAPDH served
+as house-keeping control. (B) shows the protein expression of select
+CSC markers LGR5 and CXCR4 at 6- and 24 h following treatment with
+G2.2 (100 &#x003bc;M) or vehicle. Numbers under the blot in red (B)
+show the relative change in expression levels of the marker in comparison
+to vehicle-treated CSCs using densitometry. Error bars represent &#x000b1;1
+SEM; * represents <italic>p</italic> &#x0003c; 0.01 compared to respective
+controls.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00402f_0006" id="gr4" position="float"/></fig><p>To understand the mechanism by
+which G2.2 might induce these molecular
+changes, we examined expression of above CSC markers at mRNA and protein
+levels at various time points. We observed a marked decrease in mRNA
+levels of several CSC markers at 6 h following treatment with G2.2
+compared to controls (Figure <xref rid="fig4" ref-type="fig">4</xref>a). With regard
+to the corresponding proteins, there was minimal change at 6 h but
+a significant decrease at 24 h (Figure <xref rid="fig4" ref-type="fig">4</xref>b).
+These findings suggest that mRNA changes precede changes in protein
+expression strongly supporting the notion that G2.2 regulates CSC
+markers through regulation of gene transcription. Taken together,
+these results provide compelling evidence that G2.2 targets CSCs at
+a molecular level, which supports the phenotypic findings of spheroid
+growth inhibition described above. More importantly, the structure&#x02013;activity
+dependence observed between two related NSGMs suggest that the fine
+structure of the molecule is critical for the CSC targeting ability.</p></sec><sec id="sec2.4"><title>Mechanism of G2.2 Mediated Inhibition of CSC Growth</title><p>To gain
+further insight into mechanism of selective CSC targeting
+by G2.2, we examined its effect on broad cellular processes in spheroid
+cells. CSC growth is regulated by a fine balance between self-renewal
+and differentiation.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> We examined CK20,
+a marker of colonic differentiation, expression in spheroid cells
+grown on collagen in the presence of 2.5% serum, which is known to
+promote differentiation,<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> following treatment
+with G2.2. We observed only a modest induction of CK20 expression
+following G2.2 treatment compared to vehicle treated controls using
+two different methods (Western blot and immunocytochemistry, Figures <xref rid="fig5" ref-type="fig">5</xref>a and b). On the other hand, G2.2 caused a significant
+inhibition of self-renewal factors BMI-1 and c-MYC, while it had little
+effect on OCT-4 levels (Figures <xref rid="fig5" ref-type="fig">5</xref>c and d).
+In comparison, the inactive analogue G1.4 induced no such changes
+(Figures <xref rid="fig5" ref-type="fig">5</xref>c and d). These findings suggest
+that G2.2 might inhibit CSC growth, at least in part, through attenuation
+of self-renewal. In fact, inhibition of BMI-1 expression in colon
+cancer is being currently exploited as a therapeutic strategy to selectively
+target CSCs.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup></p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Mechanisms of CSC targeting
+by G2.2. (A, B) Expression of colonic
+differentiation marker CK20 in colonosphere cells at various time
+points using Western-blot (A) and immunocytochemistry and imaged with
+confocal microscopy (B). Differentiation was induced by growing the
+cells on collagen matrix in the presence of 2.5% serum. (C, D) The
+effect on the expression of self-renewal factors including OCT4, BMI-1
+and C-MYC. Bar graphs (D) show the relative change in expression levels
+of the marker in comparison to vehicle-treated CSCs using densitometry.
+NSGM treatment was carried out at 100 &#x003bc;M concentration. Error
+bars represent &#x000b1;1 SEM; * represents <italic>p</italic> &#x0003c; 0.01
+compared to respective controls. The experiments were carried out
+in HT-29 colon cancer cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00402f_0007" id="gr5" position="float"/></fig><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Mechanisms of CSC targeting by G2.2. (A, B) Apoptosis induction
+was measured as proportion of annexin V (+)/propidium iodide (+) cells
+(A) and as relative proportion of cells exhibiting nuclear changes
+characteristic of apoptosis using fluorescence microscopy following
+staining with acridine orange and ethidium bromide dyes (B). Apoptosis
+index = ([apoptotic cells (exp.)/total cells (exp.)]/[apoptotic cells
+(ctr.)/total cells (ctr.)]). (C) Shows relative cell cycle distribution
+at 24 h following appropriate treatment. Treatment with respective
+NSGM (100 &#x003bc;M) was carried out in HT-29 colon cancer cells. Error
+bars represent &#x000b1;1 SEM; * represents <italic>p</italic> &#x0003c; 0.01
+compared to respective controls.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb-2014-00402f_0008" id="gr6" position="float"/></fig><p>To understand if G2.2 might exert additional effects on growth/survival
+of CSCs, we examined cell cycle distribution as well as induction
+of apoptosis in spheroid cells. G2.2 caused a very modest effect on
+cell cycle progression as evident by the small increase in proportion
+of spheroid cells in G1 phase compared to vehicle treated controls
+(Figure <xref rid="fig6" ref-type="fig">6</xref>). On the other hand, using two different
+methods to examine apoptosis induction, annexin V labeling and acridine
+orange/ethidium bromide staining, we observed a 2 to 3-fold induction
+of apoptosis in spheroid cells treated with G2.2 compared to vehicle
+treated controls (Figure <xref rid="fig6" ref-type="fig">6</xref>a and b). In contrast,
+the inactive analogue G1.4 demonstrated no such effects (Figure <xref rid="fig6" ref-type="fig">6</xref>b). Moreover, G2.2 did not induce apoptosis in CSC-poor
+monolayer counterparts (Figure <xref rid="fig6" ref-type="fig">6</xref>b). Overall,
+the findings suggest that G2.2 selectively inhibits CSCs through induction
+of apoptosis as well as attenuation of self-renewal.</p></sec><sec sec-type="conclusions" id="sec3"><title>Conclusions</title><p>This is the first report describing anticolon
+CSC selective properties of a NSGM. These molecules represent a major
+translational advance over naturally occurring GAGs because of their
+ease of synthesis, biophysical properties (hydrophobic as well as
+hydrophilic nature) and structural homogeneity.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> In fact, the structural complexity of GAGs has been a major
+challenge and NSGMs are likely to fulfill the major gap in availability
+of GAG-like molecules.</p><p>The therapeutic and chemical biology
+potential of NSGMs and GAG-like molecules is high. PI-88, a mixture
+of highly sulfated oligomannans that targets growth factor signaling,
+is being currently evaluated in clinical trials of various cancers.<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> However, it is not known whether PI-88 targets CSCs. NSGMs also
+possesses multiple sulfate groups, in the manner of PI-88, and our
+earlier work shows that they typically bind in the GAG-binding site
+on proteins and modulate function.<sup><xref ref-type="bibr" rid="ref18">18</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref></sup> The fine structure&#x02013;activity relationship noted in the anti-CSC
+function of NSGMs suggests recognition of one or more target protein(s).
+Identification of these proteins should facilitate the design of more
+potent analogues. One important finding of this work is that G2.2
+inhibits CSCs from several cell lines (HT-29, HCT-116 and Panc-1).
+This implies that a broader anti-CSC profile is possible through NSGMs,
+which should enhance the clinical relevance of these novel molecules.</p><p>Finally, our tandem, dual screen approach opens up a novel and
+relatively simple avenue for not only discovering anti-CSC agents
+but also identifying agents selectively targeting progenitor cells.
+In fact, we discuss such an observation with G4.1. Although G4.1 belongs
+to the same core scaffold as G2.2 (the flavonoid scaffold), it exerts
+its effects mostly on early progenitor cells. This finding implies
+that microscopic configurational and/or conformational differences
+play key roles in fine-tuning selectivity for targeting CSCs or progenitor
+cells. Such structural dependence of biological activity for NSGMs
+has been observed earlier and highlights the possibility of using
+this approach for advancing fundamental functional understating of
+stem cells/progenitors biology using chemical tools.</p></sec></sec><sec sec-type="materials|methods" id="sec4"><title>Materials and Methods</title><sec id="sec4.1"><title>Chemicals, Reagents, and
+Chemical Methods</title><p>Anhydrous
+CH<sub>2</sub>Cl<sub>2</sub>, THF, CH<sub>3</sub>CN, DMF, methanol,
+acetone. and HPLC grade solvents were purchased from Sigma-Aldrich
+or Fisher and used as such. All other chemicals were of reaction grade
+as used as received from Sigma-Aldrich, Fisher, or TCI America. <italic>n</italic>-Hexylamine for ion-pairing UPLC was from Acros Organics.
+Analytical TLC was performed using UNIPLATE silica gel GHLF 250 um
+precoated plates (ANALTECH). Column chromatography was performed using
+silica gel (200&#x02013;400 mesh, 60 &#x000c5;) from Sigma-Aldrich. Flash
+chromatography was performed using Teledyne ISCO, Combiflash RF system
+and disposable normal silica cartridges of 30&#x02013;50 &#x003bc; particle
+size, 230&#x02013;400 mesh size, and 60 &#x000c5; pore size. Sulfated
+molecules were purified using Sephadex G10 size exclusion chromatography.
+The quaternary ammonium counterion of sulfate groups present in the
+molecules was exchanged for sodium ion using SP Sephadex&#x02013;Na
+cation exchange chromatography. Each compound was characterized using <sup>1</sup>H and <sup>13</sup>C NMR spectroscopy, which was performed
+on Bruker 400 MHz spectrometer in either CDCl<sub>3</sub>, CD<sub>3</sub>OD, acetone-<italic>d</italic><sub>6</sub>, or D<sub>2</sub>O. ESI MS of unsulfated molecules were recorded using Waters Acquity
+TQD MS spectrometer in positive ion mode, whereas ESI MS negative
+mode was used for sulfated compounds.</p></sec><sec id="sec4.2"><title>Synthesis and Characterization
+of Non-Saccharide Glycosaminoglycan
+Mimetics (NSGMs)</title><p>The synthesis of G1.1&#x02013;G1.7, G5.1&#x02013;G5.2,
+G6.1&#x02013;6.11, G7.1, G8.1, G9.1&#x02013;9.2, G10.1&#x02013;G10.8,
+and G11.1 has been reported earlier<sup><xref ref-type="bibr" rid="ref19">19</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref></sup> and hence not presented here. NSGMs belonging to the G2, G3, G4,
+G11 (except for G11.1), and G12 scaffolds are new and are being reported
+for the first time. The detailed synthesis of these NSGMs (and intermediates
+used in their synthesis) is described in Schemes S1 through S8 in
+the online <xref rid="notes-1" ref-type="notes">Supporting Information</xref> section.
+The synthetic protocol involves several steps of traditional organic
+chemistry transformations that typically yield good yields. Each new
+compound was characterized using <sup>1</sup>H and <sup>13</sup>C
+NMR spectroscopies on Bruker 400 MHz spectrometer and ESI-MS using
+Waters Acquity TQD MS spectrometer. The spectral data for newly synthesized
+molecules are presented in the online <xref rid="notes-1" ref-type="notes">Supporting
+Information</xref>.</p></sec><sec id="sec4.3"><title>Cell Culture</title><p>HT-29 and HCT-116 human
+colon cancer cells
+were kindly gifted by Dr. Majumdar (Wayne State University) and PANC-1
+cells were obtained from ATCC. These cells were maintained in 10 cm
+tissue cultured treated plate (USA Scientific) as monolayer in Dulbecco&#x02019;s
+Modified Eagle Medium: Nutrient Mixture F-12 (DMEM/F-12) (Gibco) supplemented
+with 10% fetal bovine serum (FBS) (Gibco), and 1% streptomycin/penicillin(AA)
+(Gibco). The cells were passaged using trypsin containing ethylenediaminetraacetic
+acid (EDTA) (Gibco) before they reached 70% confluence.</p></sec><sec id="sec4.4"><title>Cell Proliferation
+Assay</title><p>Cell proliferation was evaluated
+by (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide)
+MTT cell proliferation assay. For HT-29 cell line approximately 2.5
+&#x000d7; 10<sup>3</sup> cells/100 &#x003bc;L/well were plated in 96-well
+tissue culture treated plate. After overnight incubation at 37 &#x000b0;C
+vehicle (control) or NSGM was added at the desired concentration and
+the cells were further incubated for 60&#x02013;72 h. At the end of
+the incubation, 10 &#x003bc;L of 5 mg mL<sup>&#x02013;1</sup> MTT solution
+(Sigma) made in phosphate buffered saline (PBS) (Gibco) was added
+to each well and incubated for minimum of 2 to 3 h until crystals
+formation was observed. Following this, 150 &#x003bc;L of 4 mM HCl (Sigma)
+in isopropanol solution was added dropwise to each well and the mixture
+was triturated until the crystals dissolve completely. Finally, the
+plate was placed on the spectrophotometer reader and read at 590 nm
+and growth inhibition was calculated as percent of control.</p></sec><sec id="sec4.5"><title>Primary
+(1&#x000b0;) Colonosphere Formation Assay</title><p>For
+primary sphere formation, cells were plated in nontreated, low adhesion,
+96 wells plate at the concentration of 100 cells/100 &#x003bc;L/well
+in stem cell media (SCM) that consisted of DMEM:F12:AA (Gibco), supplemented
+with 1&#x000d7; B27 (Gibco), 20 ng/mL epidermal growth factor, and 10
+ng/mL fibroblast growth factor (Sigma). After 4 h of incubation, vehicle
+(control) or NSGM at the desired concentrations were added to each
+well (at least in triplicates for each sample). On day five, numbers
+of spheres ranging from 50 to 150 mm in diameter were counted using
+phase contrast microscope and percent inhibition was calculated compared
+to control.</p></sec><sec id="sec4.6"><title>Secondary (2&#x000b0;) and Tertiary (3&#x000b0;)
+Colonosphere Assay</title><p>For secondary colonospheres, the 96-well
+plate of primary spheres
+was centrifuged at speed of 1000 rpm for 1 min and the supernatant
+was removed. Spheres that settled at the base of the plate were trypsinized
+with 20 &#x003bc;L/well and single cell suspension was prepared using
+vigorous mechanical dissociation. The numbers of viable cell were
+counted with 1:5 ratio of cell: trypan blue and then replated at 100
+cells/100 mL/well in SCM media in a low adhesion plate. No further
+treatment with NSGMs was performed. Numbers of spheres were counted
+as above on day 5. The same method was repeated for tertiary spheres.</p></sec><sec id="sec4.7"><title>Western Blotting Analysis</title><p>Western blot analysis was
+performed according to the standard protocol described in the literature.
+Briefly, HT-29 cells were plated in serum-free SCM in a low adhesion
+6-well plate to obtain spheroids. Mature spheroids were treated on
+day 4 after plating, with vehicle or NSGMs for indicated time and
+cells were solubilized in lysis buffer (20 mM Na<sub>3</sub>PO<sub>4</sub>, 100 mM NaCl, 2 mM EDTA, 1% Nonidet P-40, 2.5 mM Na<sub>3</sub>VO<sub>4</sub>) containing protease (Roche) as well as phosphatase
+inhibitor cocktails (Sigma). Following centrifugation at 14&#x02009;000
+g for 15 min, the supernatant was used for Western blot analysis.
+In all analyses, protein concentration was determined by the Bio-Rad
+Protein Assay kit (Bio-Rad). Approximately 25&#x02013;50 &#x003bc;g of
+protein was separated by polyacrylamide gel electrophoresis and was
+transferred to PVDF membrane (Bio-Rad). Blocking was done with 5%
+low fat milk powder for 1 h followed by overnight incubation with
+primary antibody (dilution 1:1000): anti-CD44 (Cell Signaling), anti-EpCAM
+(Cell Signaling), anti-LGR5 (Origene), anti-CD133 ((Miltenyi Biotec),
+anti-CXCR4 (Abcam), anti-OCT4 (Cell Signaling), anti-BMI-1(Millipore),
+anti-c-MYC (Millipore), and anti-CK20 (Abcam). This was followed by
+incubation with appropriate secondary antibody and protein bands were
+visualized using the enhanced chemiluminescence detection system and
+imaged with LAS-3000 Imaging System (FUJIFILM). Densitometry was determined
+by AIDA image analyzer software (Raytest) and results were calculated
+as relative intensity compared to control. All experiments were performed
+at least three times.</p></sec><sec id="sec4.8"><title>Flow Cytometry Analysis</title><p>Human colon
+cancer HT-29 cells,
+grown in spheroid or monolayer condition were treated with vehicle
+or NSGMs for 24 h, were trypsinized and single cells were resuspended
+at 10<sup>6</sup> cells/mL in PBS buffer. Cells were incubated with
+fluorophore conjugated antibody for 30 min at 4 &#x000b0;C and washed
+once with PBS buffer prior to analysis. Following antibody and dilution
+were used: LGR5-PE) (Dilution 1:50, Origene), DCLK1(Dilution 1:33,
+Abcam). Cell sorting was performed using FACSAria II High-Speed Cell
+Sorter (BD Biosciences) and data were analyzed with FCS Express 4
+Flow Cytometry software (De-Novo Software).</p></sec><sec id="sec4.9"><title>Real-time PCR Analysis</title><p>Total RNA was isolated using
+the mirVana miRNA Isolation Kit (Life technologies, Grand Island,
+NY). One &#x003bc;g total RNA was reverse transcribed using First-Strand
+cDNA Synthesis Kit using hexamer reverse primer (Affymetrix). Real
+time QPCR was performed using RT<sup>2</sup> SYBR Green qPCR Master
+mix (Qiagen) in a 7500 fast real time machine (Applied Biosystem).
+Relative expressions of mRNA were calculated using &#x00394;&#x00394;CT
+methods using GAPDH as a loading control. Primers used in the study
+include CXCR4 (Forward 5&#x02032; ACT ACA CCG AGG AAA TGG GCT 3&#x02032;,
+Reverse 5&#x02032; CCC ACA ATG CCA GTT A AG A AGA 3&#x02032;); CD44
+(Forward 5&#x02032; AGC AAC CAA GAG GCA AGA AA 3&#x02032;, Reverse 5&#x02032;
+GTG TGG TTG AAA TGG TGC TG 3&#x02032;); LGR5 (Forward 5&#x02032; CTC
+CCA GGT CTG GTG TGT TG 3&#x02032;, Reverse 5&#x02032; GAG GTC TAG GTA
+GGA GGT GAA G 3&#x02032;); CD133 (Forward 5&#x02032; GGA CCC ATT GGC
+ATT CTC 3&#x02032;, Reverse 5&#x02032;CAG GAC ACA GCA TAG AAT AAT C
+3&#x02032;); GAPDH (Forward 5&#x02032; TGT TGC CAT CAA TGA CCC CTT 3&#x02032;,
+Reverse 5&#x02032;CTC CAC GAC GTA CTC AGC G 3&#x02032;).</p></sec><sec id="sec4.10"><title>Differentiation
+Assay</title><p>Single cell suspension from mature
+HT-29 colonosphere pretreated with vehicle or G2.2 for 24 h were plated
+on collagen coated glass coverslips or flasks in the presence of media
+supplemented with 2.5% FBS containing G2.2 or vehicle. At indicated
+time points, cells lysate was examined for CK-20 expression with western-blot
+as above. Alternatively, cells were fixed with 4% paraformaldehyde
+for 20 min at RT, permeabilized for 5 min in 0.5% Triton X-100 solution
+and blocked in PBS containing 1% BSA for 1 h prior to incubation with
+anti-CK-20 antibody (Abcam) for 2 h. Cells were then washed, incubated
+for 60 min with Alexa Fluor conjugate secondary antibodies, rinsed
+with blocking buffer and mounted on slides with DAPI containing ProLong
+Gold Antifade Reagent (Invitrogen). Fluorescently labeled cells were
+examined using a Zeiss LSM700 laser scanning confocal microscope (Zeiss
+Micro imaging Inc.). Alexa Flour 555 signals were imaged sequentially
+at 40&#x000d7; magnification in frame-interlaced mode to eliminate cross
+talk between channels.</p></sec><sec id="sec4.11"><title>Apoptosis Assay</title><p>Human colon cancer
+HCT-116 cells, grown
+in spheroid condition were treated with vehicle or NSGMs for 24 h.
+Following which cells were trypsinized and single cells were resuspended
+at 10<sup>6</sup> cells/mL in PBS buffer. Two different methods were
+used to assess apoptosis induction. In the first methods, cells were
+incubated with propidium iodide and Annexin V-APC (ebioscience) and
+flow cytometric analyses were performed as above. In the second method,
+fluorescence microscopy was employed to examine morphological changes
+suggestive of apoptosis following staining with 1:1 mixture of 100
+&#x003bc;g/mL each of acridine orange (AO) and ethidium bromide (EB)
+prepared in PBS. Briefly, a small volume of cell suspension was mounted
+on a glass slide and incubated with 1 &#x003bc;L of AO/EB solution and
+mixed gently just prior to microscopy and quantification. At least
+500 cells in 10&#x02013;15 fields were examined in each sample using
+Nikon ECLIPSE E800 M fluorescence microscope using 20&#x000d7; objective.
+Results were quantitated as proportion of cells exhibiting characteristic
+apoptotic morphology normalized to vehicle treated controls. The data
+was expressed as apoptosis index = [([apoptotic cells (NSGMs)/total
+cells (NSGMs)]/[apoptotic cells (vehicle)/total cells (vehicle)]).</p></sec><sec id="sec4.12"><title>Statistical Analysis</title><p>All data are expressed as means
+&#x000b1; SEM unless otherwise indicated. The results were analyzed using
+the unpaired, two-tailed Student&#x02019;s <italic>t</italic> test. <italic>p</italic> &#x0003c; 0.01 was designated as the level of significance
+unless specified otherwise.</p></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>This material is available
+free of charge via the Internet at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://pubs.acs.org">http://pubs.acs.org</uri>.</p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cb500402f_si_001.pdf"><caption><p>cb500402f_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="notes-2"><title>Author Contributions</title><p>N.J.P. performed
+library screening and mechanistic studies, analyzed the results and
+assisted in writing the manuscript; R.K. and R.A.A.H. synthesized
+library of compounds; S.B. performed mechanistic studies, J.P. assisted
+in library screening; U.R.D. and B.B.P. directed the project, analyzed
+the results and wrote the manuscript.</p></notes><notes id="notes-3" notes-type="funding-statement"><p>This work was
+supported by grants HL090586 and HL107152 from the National Institutes
+of Health to U.R.D., a VA Merit award to B.B.P. and a postdoctoral
+fellowship from the American Heart Association&#x02014;Mid-Atlantic
+Affiliate to R.A.A.H.</p></notes><notes id="NOTES-d80e724-autogenerated" notes-type="conflict-of-interest"><p>The authors declare no
+competing financial interest.</p></notes><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>1&#x000b0;</term><def><p>primary</p></def></def-item><def-item><term>2&#x000b0;</term><def><p>secondary</p></def></def-item><def-item><term>3&#x000b0;</term><def><p>tertiary</p></def></def-item><def-item><term>CSCs</term><def><p>cancer stem-like cells</p></def></def-item><def-item><term>GAG</term><def><p>glycosaminoglycan</p></def></def-item><def-item><term>HS</term><def><p>heparan sulfate</p></def></def-item><def-item><term>NSGM</term><def><p>nonsaccharide GAG mimetic</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Gangemi</surname><given-names>R.</given-names></name>; <name><surname>Paleari</surname><given-names>L.</given-names></name>; <name><surname>Orengo</surname><given-names>A. M.</given-names></name>; <name><surname>Cesario</surname><given-names>A.</given-names></name>; <name><surname>Chessa</surname><given-names>L.</given-names></name>; <name><surname>Ferrini</surname><given-names>S.</given-names></name>; <name><surname>Russo</surname><given-names>P.</given-names></name> (<year>2009</year>) <article-title>Cancer stem
+cells: A new paradigm
+for understanding tumor growth and progression and drug resistance</article-title>. <source>Curr. Med. Chem.</source>
+<volume>16</volume>, <fpage>1688</fpage>&#x02013;<lpage>1703</lpage>.<pub-id pub-id-type="pmid">19442140</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Dontu</surname><given-names>G.</given-names></name>; <name><surname>Abdallah</surname><given-names>W. M.</given-names></name>; <name><surname>Foley</surname><given-names>J. M.</given-names></name>; <name><surname>Jackson</surname><given-names>K. W.</given-names></name>; <name><surname>Clarke</surname><given-names>M. F.</given-names></name>; <name><surname>Kawamura</surname><given-names>M. J.</given-names></name>; <name><surname>Wicha</surname><given-names>M. S.</given-names></name> (<year>2003</year>) <article-title><italic>In vitro</italic> propagation
+and transcriptional profiling of human mammary stem/progenitor cells</article-title>. <source>Genes Dev.</source>
+<volume>17</volume>, <fpage>1253</fpage>&#x02013;<lpage>1270</lpage>.<pub-id pub-id-type="pmid">12756227</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Reya</surname><given-names>T.</given-names></name>; <name><surname>Morrison</surname><given-names>S. J.</given-names></name>; <name><surname>Clarke</surname><given-names>M. F.</given-names></name>; <name><surname>Weissman</surname><given-names>I. L.</given-names></name> (<year>2001</year>) <article-title>Stem cells, cancer,
+and cancer stem cells</article-title>. <source>Nature</source>
+<volume>414</volume>, <fpage>105</fpage>&#x02013;<lpage>111</lpage>.<pub-id pub-id-type="pmid">11689955</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Scatena</surname><given-names>R.</given-names></name>; <name><surname>Bottoni</surname><given-names>P.</given-names></name>; <name><surname>Pontoglio</surname><given-names>A.</given-names></name>; <name><surname>Giardina</surname><given-names>B.</given-names></name> (<year>2011</year>) <article-title>Cancer stem cells:
+The development of new cancer therapeutics</article-title>. <source>Expert Opin. Biol. Ther.</source>
+<volume>11</volume>, <fpage>875</fpage>&#x02013;<lpage>892</lpage>.<pub-id pub-id-type="pmid">21463158</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Gupta</surname><given-names>P. B.</given-names></name>; <name><surname>Onder</surname><given-names>T. T.</given-names></name>; <name><surname>Jiang</surname><given-names>G.</given-names></name>; <name><surname>Tao</surname><given-names>K.</given-names></name>; <name><surname>Kuperwasser</surname><given-names>C.</given-names></name>; <name><surname>Weinberg</surname><given-names>R. A.</given-names></name>; <name><surname>Lander</surname><given-names>E. S.</given-names></name> (<year>2009</year>) <article-title>Identification of selective inhibitors
+of cancer stem cells by high-throughput screening</article-title>. <source>Cell</source>
+<volume>138</volume>, <fpage>645</fpage>&#x02013;<lpage>659</lpage>.<pub-id pub-id-type="pmid">19682730</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="undeclared" id="cit6"><person-group person-group-type="allauthors"><name><surname>Carmody</surname><given-names>L.</given-names></name>, <name><surname>Germain</surname><given-names>A.</given-names></name>, <name><surname>Morgan</surname><given-names>B.</given-names></name>, <name><surname>VerPlank</surname><given-names>L.</given-names></name>, <name><surname>Fernandez</surname><given-names>C.</given-names></name>, <name><surname>Feng</surname><given-names>Y.</given-names></name>, <name><surname>Perez</surname><given-names>J.</given-names></name>, <name><surname>Dandapani</surname><given-names>S.</given-names></name>, <name><surname>Munoz</surname><given-names>B.</given-names></name>, <name><surname>Palmer</surname><given-names>M.</given-names></name>, <name><surname>Lander</surname><given-names>E. S.</given-names></name>, <name><surname>Gupta</surname><given-names>P. B.</given-names></name>, and <name><surname>Schreiber</surname><given-names>S. L.</given-names></name></person-group> (<year>2010&#x02013;2011</year>) <article-title>Probe Reports from
+the NIH Molecular Libraries Program [Internet]</article-title>. <publisher-name>National Center for Biotechnology Information (US)</publisher-name>, <publisher-loc>Bethesda, MD</publisher-loc>. PMID: 23762939.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Carmody</surname><given-names>L. C.</given-names></name>; <name><surname>Germain</surname><given-names>A. R.</given-names></name>; <name><surname>VerPlank</surname><given-names>L.</given-names></name>; <name><surname>Nag</surname><given-names>P. P.</given-names></name>; <name><surname>Mu&#x000f1;oz</surname><given-names>B.</given-names></name>; <name><surname>Perez</surname><given-names>J. R.</given-names></name>; <name><surname>Palmer</surname><given-names>M. A.</given-names></name> (<year>2012</year>) <article-title>Phenotypic high-throughput
+screening
+elucidates target pathway in breast cancer stem cell-like cells</article-title>. <source>J. Biomol. Screen.</source>
+<volume>17</volume>, <fpage>1204</fpage>&#x02013;<lpage>1210</lpage>.<pub-id pub-id-type="pmid">22941295</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Germain</surname><given-names>A. R.</given-names></name>; <name><surname>Carmody</surname><given-names>L. C.</given-names></name>; <name><surname>Nag</surname><given-names>P. P.</given-names></name>; <name><surname>Morgan</surname><given-names>B.</given-names></name>; <name><surname>Verplank</surname><given-names>L.</given-names></name>; <name><surname>Fernandez</surname><given-names>C.</given-names></name>; <name><surname>Donckele</surname><given-names>E.</given-names></name>; <name><surname>Feng</surname><given-names>Y.</given-names></name>; <name><surname>Perez</surname><given-names>J. R.</given-names></name>; <name><surname>Dandapani</surname><given-names>S.</given-names></name>; <name><surname>Palmer</surname><given-names>M.</given-names></name>; <name><surname>Lander</surname><given-names>E. S.</given-names></name>; <name><surname>Gupta</surname><given-names>P. B.</given-names></name>; <name><surname>Schreiber</surname><given-names>S. L.</given-names></name>; <name><surname>Munoz</surname><given-names>B.</given-names></name> (<year>2013</year>) <article-title>Cinnamides as selective small-molecule
+inhibitors of a cellular model of breast cancer stem cells</article-title>. <source>Bioorg. Med. Chem. Lett.</source>
+<volume>23</volume>, <fpage>1834</fpage>&#x02013;<lpage>1838</lpage>.<pub-id pub-id-type="pmid">23403082</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Ailles</surname><given-names>L. E.</given-names></name>; <name><surname>Weissman</surname><given-names>I. L.</given-names></name> (<year>2007</year>) <article-title>Cancer stem cells in solid tumors</article-title>. <source>Curr. Opin. Biotechnol.</source>
+<volume>18</volume>, <fpage>460</fpage>&#x02013;<lpage>466</lpage>.<pub-id pub-id-type="pmid">18023337</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Reya</surname><given-names>T.</given-names></name>; <name><surname>Clevers</surname><given-names>H.</given-names></name> (<year>2005</year>) <article-title>Wnt signaling in stem cells and cancer</article-title>. <source>Nature</source>
+<volume>434</volume>, <fpage>843</fpage>&#x02013;<lpage>850</lpage>.<pub-id pub-id-type="pmid">15829953</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Kraushaar</surname><given-names>D. C.</given-names></name>; <name><surname>Dalton</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name> (<year>2013</year>) <article-title>Heparan sulfate: A key regulator
+of embryonic stem cell fate</article-title>. <source>Biol. Chem.</source>
+<volume>394</volume>, <fpage>741</fpage>&#x02013;<lpage>751</lpage>.<pub-id pub-id-type="pmid">23370908</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Hirano</surname><given-names>K.</given-names></name>; <name><surname>Sasaki</surname><given-names>N.</given-names></name>; <name><surname>Ichimiya</surname><given-names>T.</given-names></name>; <name><surname>Miura</surname><given-names>T.</given-names></name>; <name><surname>Van Kuppevelt</surname><given-names>T. H.</given-names></name>; <name><surname>Nishihara</surname><given-names>S.</given-names></name> (<year>2012</year>) <article-title>3-O-sulfated
+heparan sulfate recognized by the antibody
+HS4C3 contribute to the differentiation of mouse embryonic stem cells
+via Fas signaling</article-title>. <source>PLoS One</source>
+<volume>7</volume>, <fpage>e43440</fpage>.<pub-id pub-id-type="pmid">22916262</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Johnson</surname><given-names>C. E.</given-names></name>; <name><surname>Crawford</surname><given-names>B. E.</given-names></name>; <name><surname>Stavridis</surname><given-names>M.</given-names></name>; <name><surname>Ten Dam</surname><given-names>G.</given-names></name>; <name><surname>Wat</surname><given-names>A. L.</given-names></name>; <name><surname>Rushton</surname><given-names>G.</given-names></name>; <name><surname>Ward</surname><given-names>C. M.</given-names></name>; <name><surname>Wilson</surname><given-names>V.</given-names></name>; <name><surname>van Kuppevelt</surname><given-names>T. H.</given-names></name>; <name><surname>Esko</surname><given-names>J. D.</given-names></name>; <name><surname>Smith</surname><given-names>A.</given-names></name>; <name><surname>Gallagher</surname><given-names>J. T.</given-names></name>; <name><surname>Merry</surname><given-names>C. L.</given-names></name> (<year>2007</year>) <article-title>Essential alterations of heparan sulfate during the
+differentiation of embryonic stem cells to Sox1-enhanced green fluorescent
+protein-expressing neural progenitor cells</article-title>. <source>Stem Cells</source>
+<volume>25</volume>, <fpage>1913</fpage>&#x02013;<lpage>1923</lpage>.<pub-id pub-id-type="pmid">17464092</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Nairn</surname><given-names>A. V.</given-names></name>; <name><surname>Kinoshita-Toyoda</surname><given-names>A.</given-names></name>; <name><surname>Toyoda</surname><given-names>H.</given-names></name>; <name><surname>Xie</surname><given-names>J.</given-names></name>; <name><surname>Harris</surname><given-names>K.</given-names></name>; <name><surname>Dalton</surname><given-names>S.</given-names></name>; <name><surname>Kulik</surname><given-names>M.</given-names></name>; <name><surname>Pierce</surname><given-names>J. M.</given-names></name>; <name><surname>Toida</surname><given-names>T.</given-names></name>; <name><surname>Moremen</surname><given-names>K. W.</given-names></name>; <name><surname>Linhardt</surname><given-names>R. J.</given-names></name> (<year>2007</year>) <article-title>Glycomics of proteoglycan biosynthesis
+in murine embryonic stem cell differentiation</article-title>. <source>J. Proteome Res.</source>
+<volume>6</volume>, <fpage>4374</fpage>&#x02013;<lpage>4387</lpage>.<pub-id pub-id-type="pmid">17915907</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Campoli</surname><given-names>M.</given-names></name>; <name><surname>Ferrone</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name> (<year>2010</year>) <article-title>Functional and clinical relevance
+of chondroitin sulfate proteoglycan 4</article-title>. <source>Adv.
+Cancer Res.</source>
+<volume>109</volume>, <fpage>73</fpage>&#x02013;<lpage>121</lpage>.<pub-id pub-id-type="pmid">21070915</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Lombardo</surname><given-names>Y.</given-names></name>; <name><surname>Scopelliti</surname><given-names>A.</given-names></name>; <name><surname>Cammareri</surname><given-names>P.</given-names></name>; <name><surname>Todaro</surname><given-names>M.</given-names></name>; <name><surname>Iovino</surname><given-names>F.</given-names></name>; <name><surname>Ricci-Vitiani</surname><given-names>L.</given-names></name>; <name><surname>Gulotta</surname><given-names>G.</given-names></name>; <name><surname>Dieli</surname><given-names>F.</given-names></name>; <name><surname>de Maria</surname><given-names>R.</given-names></name>; <name><surname>Stassi</surname><given-names>G.</given-names></name> (<year>2011</year>) <article-title>Bone morphogenetic
+protein 4 induces differentiation
+of colorectal cancer stem cells and increases their response to chemotherapy
+in mice</article-title>. <source>Gastroenterology</source>
+<volume>140</volume>, <fpage>297</fpage>&#x02013;<lpage>309</lpage>.<pub-id pub-id-type="pmid">20951698</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Battula</surname><given-names>V. L.</given-names></name>; <name><surname>Shi</surname><given-names>Y.</given-names></name>; <name><surname>Evans</surname><given-names>K. W.</given-names></name>; <name><surname>Wang</surname><given-names>R. Y.</given-names></name>; <name><surname>Spaeth</surname><given-names>E. L.</given-names></name>; <name><surname>Jacamo</surname><given-names>R. O.</given-names></name>; <name><surname>Guerra</surname><given-names>R.</given-names></name>; <name><surname>Sahin</surname><given-names>A. A.</given-names></name>; <name><surname>Marini</surname><given-names>F. C.</given-names></name>; <name><surname>Hortobagyi</surname><given-names>G.</given-names></name>; <name><surname>Mani</surname><given-names>S. A.</given-names></name>; <name><surname>Andreeff</surname><given-names>M.</given-names></name> (<year>2012</year>) <article-title>Ganglioside
+GD2 identifies breast
+cancer stem cells and promotes tumorigenesis</article-title>. <source>J. Clin. Invest.</source>
+<volume>122</volume>, <fpage>2066</fpage>&#x02013;<lpage>2078</lpage>.<pub-id pub-id-type="pmid">22585577</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Desai</surname><given-names>U. R.</given-names></name> (<year>2013</year>) <article-title>The promise
+of sulfated synthetic small molecules as modulators of glycosaminoglycan
+function</article-title>. <source>Future Med. Chem.</source>
+<volume>5</volume>, <fpage>1363</fpage>&#x02013;<lpage>1366</lpage>.<pub-id pub-id-type="pmid">23919545</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Raman</surname><given-names>K.</given-names></name>; <name><surname>Karuturi</surname><given-names>R.</given-names></name>; <name><surname>Swarup</surname><given-names>V. P.</given-names></name>; <name><surname>Desai</surname><given-names>U. R.</given-names></name>; <name><surname>Kuberan</surname><given-names>B.</given-names></name> (<year>2012</year>) <article-title>Discovery
+of novel sulfonated small molecules that inhibit vascular tube formation</article-title>. <source>Bioorg. Med. Chem. Lett.</source>
+<volume>22</volume>, <fpage>4467</fpage>&#x02013;<lpage>4470</lpage>.<pub-id pub-id-type="pmid">22627041</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Al-Horani</surname><given-names>R. A.</given-names></name>; <name><surname>Ponnusamy</surname><given-names>P.</given-names></name>; <name><surname>Mehta</surname><given-names>A. Y.</given-names></name>; <name><surname>Gailani</surname><given-names>D.</given-names></name>; <name><surname>Desai</surname><given-names>U. R.</given-names></name> (<year>2013</year>) <article-title>Sulfated
+pentagalloylglucoside is a potent, allosteric, and selective inhibitor
+of factor XIa</article-title>. <source>J. Med. Chem.</source>
+<volume>56</volume>, <fpage>867</fpage>&#x02013;<lpage>878</lpage>.<pub-id pub-id-type="pmid">23316863</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Karuturi</surname><given-names>R.</given-names></name>; <name><surname>Al-Horani</surname><given-names>R. A.</given-names></name>; <name><surname>Mehta</surname><given-names>S. C.</given-names></name>; <name><surname>Gailani</surname><given-names>D.</given-names></name>; <name><surname>Desai</surname><given-names>U. R.</given-names></name> (<year>2013</year>) <article-title>Discovery
+of allosteric modulators of factor XIa by targeting hydrophobic domains
+adjacent to its heparin-binding site</article-title>. <source>J. Med.
+Chem.</source>
+<volume>56</volume>, <fpage>2415</fpage>&#x02013;<lpage>2428</lpage>.<pub-id pub-id-type="pmid">23451707</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Sidhu</surname><given-names>P. S.</given-names></name>; <name><surname>Abdel Aziz</surname><given-names>M. H.</given-names></name>; <name><surname>Sarkar</surname><given-names>A.</given-names></name>; <name><surname>Mehta</surname><given-names>A. Y.</given-names></name>; <name><surname>Zhou</surname><given-names>Q.</given-names></name>; <name><surname>Desai</surname><given-names>U. R.</given-names></name> (<year>2013</year>) <article-title>Designing
+allosteric regulators of thrombin. Exosite
+2 features multiple subsites that can be targeted by sulfated small
+molecules for inducing inhibition</article-title>. <source>J. Med. Chem.</source>
+<volume>56</volume>, <fpage>5059</fpage>&#x02013;<lpage>5070</lpage>.<pub-id pub-id-type="pmid">23718540</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Gunnarsson</surname><given-names>G. T.</given-names></name>; <name><surname>Desai</surname><given-names>U. R.</given-names></name> (<year>2002</year>) <article-title>Designing small,
+nonsugar activators of antithrombin
+using hydropathic interaction analyses</article-title>. <source>J. Med.
+Chem.</source>
+<volume>45</volume>, <fpage>1233</fpage>&#x02013;<lpage>1243</lpage>.<pub-id pub-id-type="pmid">11881992</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Gunnarsson</surname><given-names>G. T.</given-names></name>; <name><surname>Desai</surname><given-names>U. R.</given-names></name> (<year>2002</year>) <article-title>Interaction
+of designed sulfated flavanoids with antithrombin:
+Lessons on the design of organic activators</article-title>. <source>J. Med. Chem.</source>
+<volume>45</volume>, <fpage>4460</fpage>&#x02013;<lpage>4470</lpage>.<pub-id pub-id-type="pmid">12238925</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Al-Horani</surname><given-names>R. A.</given-names></name>; <name><surname>Liang</surname><given-names>A.</given-names></name>; <name><surname>Desai</surname><given-names>U. R.</given-names></name> (<year>2011</year>) <article-title>Designing nonsaccharide, allosteric
+activators of antithrombin for accelerated inhibition of factor Xa</article-title>. <source>J. Med. Chem.</source>
+<volume>54</volume>, <fpage>6125</fpage>&#x02013;<lpage>6138</lpage>.<pub-id pub-id-type="pmid">21800826</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Al-Horani</surname><given-names>R. A.</given-names></name>; <name><surname>Desai</surname><given-names>U. R.</given-names></name> (<year>2010</year>) <article-title>Chemical sulfation of small molecules&#x02014;Advances
+and challenges</article-title>. <source>Tetrahedron</source>
+<volume>66</volume>, <fpage>2907</fpage>&#x02013;<lpage>2918</lpage>.<pub-id pub-id-type="pmid">20689724</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Kanwar</surname><given-names>S. S.</given-names></name>; <name><surname>Yu</surname><given-names>Y.</given-names></name>; <name><surname>Nautiyal</surname><given-names>J.</given-names></name>; <name><surname>Patel</surname><given-names>B. B.</given-names></name>; <name><surname>Majumdar</surname><given-names>A. P.</given-names></name> (<year>2010</year>) <article-title>The Wnt/beta-catenin
+pathway regulates growth and maintenance of colonospheres</article-title>. <source>Mol. Cancer</source>
+<volume>9</volume>, <fpage>212</fpage>.<pub-id pub-id-type="pmid">20691072</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Vaiopoulos</surname><given-names>A. G.</given-names></name>; <name><surname>Kostakis</surname><given-names>I. D.</given-names></name>; <name><surname>Koutsilieris</surname><given-names>M.</given-names></name>; <name><surname>Papavassiliou</surname><given-names>A. G.</given-names></name> (<year>2012</year>) <article-title>Colorectal
+cancer stem cells</article-title>. <source>Stem Cells</source>
+<volume>30</volume>, <fpage>363</fpage>&#x02013;<lpage>371</lpage>.<pub-id pub-id-type="pmid">22232074</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Hermann</surname><given-names>P. C.</given-names></name>; <name><surname>Huber</surname><given-names>S. L.</given-names></name>; <name><surname>Herrler</surname><given-names>T.</given-names></name>; <name><surname>Aicher</surname><given-names>A.</given-names></name>; <name><surname>Ellwart</surname><given-names>J. W.</given-names></name>; <name><surname>Guba</surname><given-names>M.</given-names></name>; <name><surname>Bruns</surname><given-names>C. J.</given-names></name>; <name><surname>Heeschen</surname><given-names>C.</given-names></name> (<year>2007</year>) <article-title>Distinct populations
+of cancer stem cells determine tumor growth and metastatic activity
+in human pancreatic cancer</article-title>. <source>Cell Stem Cell</source>
+<volume>1</volume>, <fpage>313</fpage>&#x02013;<lpage>323</lpage>.<pub-id pub-id-type="pmid">18371365</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Barker</surname><given-names>N.</given-names></name>; <name><surname>Ridgway</surname><given-names>R. A.</given-names></name>; <name><surname>van Es</surname><given-names>J. H.</given-names></name>; <name><surname>van de Wetering</surname><given-names>M.</given-names></name>; <name><surname>Begthel</surname><given-names>H.</given-names></name>; <name><surname>van den Born</surname><given-names>M.</given-names></name>; <name><surname>Danenberg</surname><given-names>E.</given-names></name>; <name><surname>Clarke</surname><given-names>A. R.</given-names></name>; <name><surname>Sansom</surname><given-names>O. J.</given-names></name>; <name><surname>Clevers</surname><given-names>H.</given-names></name> (<year>2009</year>) <article-title>Crypt stem
+cells as
+the cells-of-origin of intestinal cancer</article-title>. <source>Nature</source>
+<volume>457</volume>, <fpage>608</fpage>&#x02013;<lpage>611</lpage>.<pub-id pub-id-type="pmid">19092804</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Sanchez-Ripoll</surname><given-names>Y.</given-names></name>; <name><surname>Bone</surname><given-names>H. K.</given-names></name>; <name><surname>Owen</surname><given-names>T.</given-names></name>; <name><surname>Guedes</surname><given-names>A. M.</given-names></name>; <name><surname>Abranches</surname><given-names>E.</given-names></name>; <name><surname>Kumpfmueller</surname><given-names>B.</given-names></name>; <name><surname>Spriggs</surname><given-names>R. V.</given-names></name>; <name><surname>Henrique</surname><given-names>D.</given-names></name>; <name><surname>Welham</surname><given-names>M. J.</given-names></name> (<year>2013</year>) <article-title>Glycogen
+synthase kinase-3 inhibition enhances translation of pluripotency-associated
+transcription factors to contribute to maintenance of mouse embryonic
+stem cell self-renewal</article-title>. <source>PLoS One</source>
+<volume>8</volume>, <fpage>e60148</fpage>.<pub-id pub-id-type="pmid">23577087</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Gonsalves</surname><given-names>F. C.</given-names></name>; <name><surname>Klein</surname><given-names>K.</given-names></name>; <name><surname>Carson</surname><given-names>B. B.</given-names></name>; <name><surname>Katz</surname><given-names>S.</given-names></name>; <name><surname>Ekas</surname><given-names>L. A.</given-names></name>; <name><surname>Evans</surname><given-names>S.</given-names></name>; <name><surname>Nagourney</surname><given-names>R.</given-names></name>; <name><surname>Cardozo</surname><given-names>T.</given-names></name>; <name><surname>Brown</surname><given-names>A. M.</given-names></name>; <name><surname>DasGupta</surname><given-names>R.</given-names></name> (<year>2011</year>) <article-title>An RNAi-based chemical genetic screen identifies three
+small-molecule inhibitors of the Wnt/wingless signaling pathway</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>108</volume>, <fpage>5954</fpage>&#x02013;<lpage>5963</lpage>.<pub-id pub-id-type="pmid">21393571</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Nakanishi</surname><given-names>Y.</given-names></name>; <name><surname>Seno</surname><given-names>H.</given-names></name>; <name><surname>Fukuoka</surname><given-names>A.</given-names></name>; <name><surname>Ueo</surname><given-names>T.</given-names></name>; <name><surname>Yamaga</surname><given-names>Y.</given-names></name>; <name><surname>Maruno</surname><given-names>T.</given-names></name>; <name><surname>Nakanishi</surname><given-names>N.</given-names></name>; <name><surname>Kanda</surname><given-names>K.</given-names></name>; <name><surname>Komekado</surname><given-names>H.</given-names></name>; <name><surname>Kawada</surname><given-names>M.</given-names></name>; <name><surname>Isomura</surname><given-names>A.</given-names></name>; <name><surname>Kawada</surname><given-names>K.</given-names></name>; <name><surname>Sakai</surname><given-names>Y.</given-names></name>; <name><surname>Yanagita</surname><given-names>M.</given-names></name>; <name><surname>Kageyama</surname><given-names>R.</given-names></name>; <name><surname>Kawaguchi</surname><given-names>Y.</given-names></name>; <name><surname>Taketo</surname><given-names>M. M.</given-names></name>; <name><surname>Yonehara</surname><given-names>S.</given-names></name>; <name><surname>Chiba</surname><given-names>T.</given-names></name> (<year>2013</year>) <article-title>Dclk1 distinguishes
+between tumor and normal stem cells in the intestine</article-title>. <source>Nat. Genet.</source>
+<volume>45</volume>, <fpage>98</fpage>&#x02013;<lpage>103</lpage>.<pub-id pub-id-type="pmid">23202126</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Prasetyanti</surname><given-names>P. R.</given-names></name>; <name><surname>Zimberlin</surname><given-names>C. D.</given-names></name>; <name><surname>Bots</surname><given-names>M.</given-names></name>; <name><surname>Vermeulen</surname><given-names>L.</given-names></name>; <name><surname>Melo Fde</surname><given-names>S.</given-names></name>; <name><surname>Medema</surname><given-names>J. P.</given-names></name> (<year>2013</year>) <article-title>Regulation of stem cell self-renewal
+and differentiation by Wnt and Notch are conserved throughout the
+adenoma-carcinoma sequence in the colon</article-title>. <source>Mol.
+Cancer</source>
+<volume>12</volume>, <fpage>126</fpage>.<pub-id pub-id-type="pmid">24144042</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Kreso</surname><given-names>A.</given-names></name>; <name><surname>van Galen</surname><given-names>P.</given-names></name>; <name><surname>Pedley</surname><given-names>N. M.</given-names></name>; <name><surname>Lima-Fernandes</surname><given-names>E.</given-names></name>; <name><surname>Frelin</surname><given-names>C.</given-names></name>; <name><surname>Davis</surname><given-names>T.</given-names></name>; <name><surname>Cao</surname><given-names>L.</given-names></name>; <name><surname>Baiazitov</surname><given-names>R.</given-names></name>; <name><surname>Du</surname><given-names>W.</given-names></name>; <name><surname>Sydorenko</surname><given-names>N.</given-names></name>; <name><surname>Moon</surname><given-names>Y. C.</given-names></name>; <name><surname>Gibson</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Leung</surname><given-names>C.</given-names></name>; <name><surname>Iscove</surname><given-names>N. N.</given-names></name>; <name><surname>Arrowsmith</surname><given-names>C. H.</given-names></name>; <name><surname>Szentgyorgyi</surname><given-names>E.</given-names></name>; <name><surname>Gallinger</surname><given-names>S.</given-names></name>; <name><surname>Dick</surname><given-names>J. E.</given-names></name>; <name><surname>O&#x02019;Brien</surname><given-names>C. A.</given-names></name> (<year>2014</year>) <article-title>Self-renewal
+as a therapeutic target in human colorectal cancer</article-title>. <source>Nat. Med.</source>
+<volume>20</volume>, <fpage>29</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">24292392</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Ferro</surname><given-names>V.</given-names></name>; <name><surname>Dredge</surname><given-names>K.</given-names></name>; <name><surname>Liu</surname><given-names>L.</given-names></name>; <name><surname>Hammond</surname><given-names>E.</given-names></name>; <name><surname>Bytheway</surname><given-names>I.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Johnstone</surname><given-names>K.</given-names></name>; <name><surname>Karoli</surname><given-names>T.</given-names></name>; <name><surname>Davis</surname><given-names>K.</given-names></name>; <name><surname>Copeman</surname><given-names>E.</given-names></name>; <name><surname>Gautam</surname><given-names>A.</given-names></name> (<year>2007</year>) <article-title>PI-88 and novel heparan sulfate mimetics inhibit angiogenesis</article-title>. <source>Semin. Thromb. Hemost.</source>
+<volume>33</volume>, <fpage>557</fpage>&#x02013;<lpage>568</lpage>.<pub-id pub-id-type="pmid">17629854</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Lewis</surname><given-names>K. D.</given-names></name>; <name><surname>Robinson</surname><given-names>W. A.</given-names></name>; <name><surname>Millward</surname><given-names>M. J.</given-names></name>; <name><surname>Powell</surname><given-names>A.</given-names></name>; <name><surname>Price</surname><given-names>J.</given-names></name>; <name><surname>Thomson</surname><given-names>D. B.</given-names></name>; <name><surname>Walpole</surname><given-names>E. T.</given-names></name>; <name><surname>Haydon</surname><given-names>A. M.</given-names></name>; <name><surname>Creese</surname><given-names>B. R.</given-names></name>; <name><surname>Roberts</surname><given-names>K. L.</given-names></name>; <name><surname>Zalcberg</surname><given-names>J. R.</given-names></name>; <name><surname>Gonzalez</surname><given-names>R.</given-names></name> (<year>2008</year>) <article-title>A phase II study of
+the heparanase inhibitor PI-88 in patients with advanced melanoma</article-title>. <source>Invest. New Drugs</source>
+<volume>26</volume>, <fpage>89</fpage>&#x02013;<lpage>94</lpage>.<pub-id pub-id-type="pmid">17891338</pub-id></mixed-citation></ref></ref-list></back></article>

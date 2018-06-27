@@ -1,0 +1,31 @@
+TREC2015_1	A 44-year-old man with coffee-ground emesis, tachycardia, hypoxia,hypotension and cool, clammy extremities.
+TREC2015_2	A 62-year-old immunosuppressed male with fever, cough and intranuclear inclusion bodies in bronchoalveolar lavage
+TREC2015_3	A 65-year-old male presents with dyspnea, tachypnea, chest pain on inspiration, and swelling and pain in the right calf. 
+TREC2015_4	82-year-old woman awakened by acute stabbing chest pain, with ST-segment elevation, hypertension, sinus tachycardia, no diseases on coronary angiography and left ventricular dysfunction on ventriculography.
+TREC2015_5	Young adult woman with 2 weeks of fever and migrating joint inflammation.
+TREC2015_6	A 46-year-old woman with sweaty hands, exophthalmia, and weight loss despite increased eating.
+TREC2015_7	A 22 year old female presents with changes in appetite and sleeping, fatigue, diminished ability to think or concentrate, anhedonia and feelings of guilt.
+TREC2015_8	A 10-year-old boy with difficulty concentrating, daytime sleepiness, and failure to thrive. The boy sleeps restlessly, snores, sweats, breathes heavily through his mouth and gasps in his sleep. 
+TREC2015_9	A 10 year old child with recent history of pork consumption presents with fever, myalgia, facial edema and eosinophilia
+TREC2015_10	A 38 year old woman with severe dysmenorrhea, menorrhagia, and menometrorrhagia. PMH of infertility treatment and ectopic pregnancy
+TREC2015_11	A 56-year old Caucasian female presents with sensitivity to cold, fatigue, and constipation. Physical examination reveals hyporeflexia with delayed relaxation of knee and ankle reflexes, and very dry skin.
+TREC2015_12	A 44-year-old man complains of severe headache and fever. Nuchal rigidity was found on physical examination.
+TREC2015_13	A 5-year-old boy presents with difficulty in breathing, stridor, drooling, fever, dysphagia and voice change.
+TREC2015_14	A young woman in her second gestation presenting with anemia resistant to improvement by iron supplementation, elevated LDH, anisocytosis, poikilocytosis, hemosiderinuria and normal clotting screen.
+TREC2015_15	A 72-year-old woman with history of hypertension, type 2 diabetes, cryptogenic stroke, normal EKG, normal echocardiogram, normal angiograms, and complaints of occasional shortness of breath and palpitations.
+TREC2015_16	A 4 year old boy presents with wheezing after playing in the backyard unobserved.
+TREC2015_17	A 32 year old female with screening that was positive for human papilloma virus with normal Pap smears.
+TREC2015_18	A 65-year-old African-American male with progressive dyspnea on exertion and while lying flat; bilateral pitting lower-extremity edema. The lungs revealed bilateral basilar crackles.
+TREC2015_19	A 66-year-old female smoker presents with worsening dyspnea, productive chronic cough, moderate respiratory distress and unintentional weight loss.
+TREC2015_20	An 89-year-old man with progressive change in personality, poor memory, and myoclonic jerks.
+TREC2015_21	A 32-year-old male presents with diarrhea and foul-smelling stools. Stool smear reveals protozoan parasites.
+TREC2015_22	A 65-year-old male complains of productive cough with tinges of blood. Chest X-ray reveals a round opaque mass within a cavity in his lung. Culture of the sputum revealed fungal elements.
+TREC2015_23	An 18-year-old male returned from Asia a week ago. He presents with high fever, severe headache and joint pain. His blood analysis reveals leukopenia, increased hematocrit and thrombocytopenia.
+TREC2015_24	A 31 year old male presents with productive cough, chest pain, fever and chills. On exam he has audible wheezing with decreased breath sounds and dullness to percussion.
+TREC2015_25	10-year-old boy with progressive right knee and left leg pain and edema, lethargy and an osteolytic lesion. No history of trauma, fever, tachycardia, or urinary incontinence.
+TREC2015_26	An obese 28 yo female with non-ruptured ectopic pregnancy and history of adhesions.
+TREC2015_27	A 15 yo girl with fatigue, pale skin, low hemoglobin and ferritin.
+TREC2015_28	An 8-year-old boy presents with a swollen right knee, lower extremity pain and fever. The parents report no history of trauma. The parents noticed a tick bite several months earlier.
+TREC2015_29	A 4-year-old girl with persistent high fever, skin rash, strawberry tongue, swollen red hands, and bilateral nonexudative conjunctivitis.
+TREC2015_30	A 47 year old male who fell on his outstretched left arm presents with pain, swelling, and inability to bend the arm. The x-ray, shows posterior elbow dislocation.
+
