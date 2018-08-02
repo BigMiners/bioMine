@@ -34,7 +34,7 @@ mvn clean install
 
 4 - Create a collection using bioMine index schemas and configuration for Solr, use:
 ```bash
- bin/solr create -c <name of collection> -d /home/hayda/Projects/bioMine/solr/collectionConfigs/<name of collection folder>
+ bin/solr create -c <name of collection> -d /path/to/bioMine/solr/collectionConfigs/<name of collection folder>
 ```
 
 5 - Prepare a config.properties file with proper paths and configurations.
