@@ -786,9 +786,16 @@
     </lst>
   </requestHandler>
 
+  <requestHandler name="/update" class="solr.UpdateRequestHandler" >
+    <lst name="defaults">
+      <str name="update.chain">dedupe</str>
+    </lst>
+  </requestHandler>
+
   <initParams path="/update/**,/query,/select,/tvrh,/elevate,/spell,/browse">
     <lst name="defaults">
-      <str name="df">_text_</str>
+      <!-- str name="df">_text_</str -->
+      <str name="df">fasta</str>
     </lst>
   </initParams>
 

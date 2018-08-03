@@ -149,6 +149,7 @@
    <field name="provenance" type="string" indexed="true" stored="true"/>	
    <!-- field used for doc signature -->
    <field name="biomineSignature" type="string" indexed="true" stored="true" required="false" multiValued="false" docValues="false"/>
+   <field name="annotation" type="text_general" indexed="true" stored="false" required="false" multiValued="true"/>
 
     <!-- This can be enabled, in case the client does not know what fields may be searched. It isn't enabled by default
          because it's very expensive to index everything twice. -->
@@ -200,6 +201,13 @@
 
     <copyField source="sourceFieldName" dest="destinationFieldName"/>
     -->
+    <copyField source="proteinId" dest="annotation"/>
+    <copyField source="geneName" dest="annotation"/>
+    <copyField source="description" dest="annotation"/>
+    <copyField source="goFunction" dest="annotation"/>
+    <copyField source="goProcess" dest="annotation"/>
+    <copyField source="goComponent" dest="annotation"/>
+    <copyField source="provenance" dest="annotation"/>
 
     <!-- field type definitions. The "name" attribute is
        just a label to be used by field definitions.  The "class"
