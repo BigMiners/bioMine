@@ -9,12 +9,15 @@ import com.engine.biomine.common.Configs;
 import com.engine.biomine.swagger.ServletFilter;
 import com.engine.biomine.swagger.SwaggerConfig;
 import java.util.ArrayList;
+import java.util.Collection;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.solr.SolrAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Import;
 
 /**
  *
@@ -23,6 +26,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 @EnableAutoConfiguration(exclude = {SolrAutoConfiguration.class})
 @ComponentScan(basePackageClasses = BiomineController.class)
+@Import({SwaggerConfig.class, ServletFilter.class})
 public class Application {
 
     private final static Logger logger = LoggerFactory.getLogger(Application.class);
@@ -30,14 +34,8 @@ public class Application {
     public static void main(String[] args) {
             	//load properties
         Configs config = new Configs();
-
-        ArrayList<Object> sources = new ArrayList<>();
-
-        sources.add(Application.class);
-        sources.add(SwaggerConfig.class);
-        sources.add(ServletFilter.class);
-
-        SpringApplication.run(sources.toArray(new Object[0]), args);
+        Class<?>[] cl = {Application.class, SwaggerConfig.class, ServletFilter.class};
+        SpringApplication.run(cl,args);
     }
 
 }

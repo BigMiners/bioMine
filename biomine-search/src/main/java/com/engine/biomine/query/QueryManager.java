@@ -2,20 +2,14 @@ package com.engine.biomine.query;
 
 import java.io.IOException;
 import java.util.*;
-
-
-import com.engine.biomine.common.FIELDS;
-import org.apache.solr.client.solrj.SolrClient;
 import org.apache.solr.client.solrj.SolrQuery;
 import org.apache.solr.client.solrj.SolrServerException;
 import org.apache.solr.client.solrj.impl.CloudSolrClient;
-import org.apache.solr.client.solrj.impl.HttpSolrClient;
 import org.apache.solr.client.solrj.response.QueryResponse;
 import org.apache.solr.common.SolrDocument;
 import org.apache.solr.common.params.CommonParams;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
 import com.engine.biomine.common.Configs;
 import com.engine.biomine.query.result.DocumentResult;
 import com.engine.biomine.query.result.FacetItem;
@@ -23,8 +17,7 @@ import com.engine.biomine.query.result.FacetResult;
 import com.engine.biomine.query.result.SearchResponse;
 import org.apache.solr.client.solrj.response.FacetField;
 import org.apache.solr.client.solrj.response.FacetField.Count;
-import org.apache.solr.common.SolrDocumentList;
-import org.w3c.dom.Document;
+
 
 /**
  *
@@ -34,7 +27,7 @@ import org.w3c.dom.Document;
 public class QueryManager {
 
     private EDismaxQueryParser queryParser;
-    private String serverUrl;
+    private ArrayList<String> serverUrl;
     Properties props;
     private final CloudSolrClient solrClient;
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
@@ -44,10 +37,10 @@ public class QueryManager {
 
     public QueryManager() {
         props = Configs.getInstance().getProps();
-
-        this.serverUrl = props.getProperty("server.url");
+        this.serverUrl = new ArrayList<>(Arrays.asList(props.getProperty("server.url").split(",")));
         logger.info("Using Solr server {}", this.serverUrl);
-        this.solrClient= new CloudSolrClient(serverUrl);
+//        this.solrClient= new CloudSolrClient.Builder(serverUrl).build();
+        this.solrClient= new CloudSolrClient.Builder(serverUrl).build();
 
         String collection = props.getProperty("collections");
         defaultCollection = (collection.contains(",")) ? collection.substring(0, collection.indexOf(",")) : collection;

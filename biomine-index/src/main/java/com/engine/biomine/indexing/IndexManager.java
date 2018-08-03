@@ -49,7 +49,7 @@ public class IndexManager {
     private final BioentityExtractor mapperEntity;
 
     //solr interface
-    private final String serverPath;
+    private ArrayList<String> serverPath;
     private final CloudSolrClient solrClient;
     private final String defaultCollection;
 
@@ -58,9 +58,12 @@ public class IndexManager {
 
     public IndexManager() {
         props = Configs.getInstance().getProps();
-        serverPath = props.getProperty("server.url");
+//        serverPath = props.getProperty("server.url");
+        this.serverPath  = new ArrayList<>(Arrays.asList(props.getProperty("server.url").split(",")));
         logger.info("Using Solr server {}", serverPath);
-        this.solrClient = new CloudSolrClient.Builder().withZkHost(serverPath).build();
+        this.solrClient = new CloudSolrClient.Builder(serverPath).build();
+
+//        this.solrClient = new CloudSolrClient.Builder().withZkHost(serverPath).build();
 
         String collection = props.getProperty("collections");
         defaultCollection = (collection.contains(",")) ? collection.substring(0, collection.indexOf(",")) : collection;
