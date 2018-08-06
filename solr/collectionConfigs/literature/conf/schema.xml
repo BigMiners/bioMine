@@ -140,8 +140,9 @@
    <field name="referenceAuthor" type="text_general" indexed="false" stored="true" required="false" multiValued="true"/>
    <field name="year" type="plong" indexed="true" stored="true" required="false" multiValued="false" docValues="true"/>
    <field name="captions" type="string" indexed="true" stored="true" required="false" multiValued="false" docValues="true"/>
+   <field name="literature" type="text_en" indexed="true" stored="false" required="false" multiValued="true"/>  
    <!-- field used for document signature -->
-   <field name="biomineSignature" type="string" indexed="true" stored="true" required="false" multiValued="false" docValues="false"/>
+   <field name="biomineSignature" type="string" indexed="true" stored="false" required="false" multiValued="false" docValues="false"/>
 
 	
     <!-- Dynamic field definitions allow using convention over configuration
@@ -191,6 +192,10 @@
     <copyField source="sourceFieldName" dest="destinationFieldName"/>
     -->
     <copyField source="journalTitle" dest="journalTitleStr" maxChars="30000" />
+    <copyField source="abstract" dest="literature" maxChars="30000" />
+    <copyField source="body" dest="literature" maxChars="30000" />
+    <copyField source="title" dest="literature" maxChars="30000" />
+    <copyField source="keywords" dest="literature" maxChars="30000" />
 
     <!-- field type definitions. The "name" attribute is
        just a label to be used by field definitions.  The "class"
