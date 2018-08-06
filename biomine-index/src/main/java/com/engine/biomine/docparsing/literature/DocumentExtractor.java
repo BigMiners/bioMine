@@ -46,7 +46,8 @@ public abstract class DocumentExtractor {
     private final String exprXpathMedline = "//MedlineCitationSet/MedlineCitation";
     //reference (tag) to identify single entry in a file with multiple documents
     String documentHead;
-    private final String documentSplitTag = "MedlineCitationSet";
+    private final String splitTagMedline = "MedlineCitationSet";
+    private final String splitTagPubMed = "PubmedArticleSet";
     private int docCount = 0;
 
     public DocumentExtractor() {
@@ -155,7 +156,8 @@ public abstract class DocumentExtractor {
                 xstreamReader.next();
             }            
 
-            if (documentSplitTag.equals(xstreamReader.getLocalName())) {
+            if (splitTagMedline.equals(xstreamReader.getLocalName()) ||
+                    splitTagPubMed.equals(xstreamReader.getLocalName())) {
                 //parse multiple nested xml files
                 TransformerFactory tf = TransformerFactory.newInstance();
                 Transformer transformer = tf.newTransformer();
@@ -215,6 +217,39 @@ public abstract class DocumentExtractor {
         }
 
         return out.toString();
+    }
+
+    protected String[] getTagList(Document document, String expathExpr) {
+        ArrayList<String> out = Lists.newArrayList();
+        NodeList nodes;
+        try {
+            nodes = (NodeList) xpathExecutor.evaluate(expathExpr, document, XPathConstants.NODESET);
+            for (int i = 0; i < nodes.getLength(); i++) {
+                Node currentNode = nodes.item(i);
+                out.add(currentNode.getTextContent());
+            }
+        } catch (XPathExpressionException ex) {
+            logger.error("XPathExpressionException: could not apply xpath expression", ex);
+        }
+
+        return out.toArray(new String[0]);
+    }
+
+    protected String idNormalizer(String id){
+
+        id = id.replace(".","");
+
+        if(id.toLowerCase().contains("pmid")){
+            id = id.toLowerCase().replace("pmid","");
+        }
+
+        if(id.toLowerCase().contains("pmcid") ||
+                id.toLowerCase().contains("pmc")){
+            id = id.toLowerCase().replace("pmcid","");
+            id = id.toLowerCase().replace("pmc","");
+        }
+
+        return id;
     }
 
     protected Author[] getAuthors(Document document, String expathExpr) {

@@ -23,6 +23,7 @@ import java.util.ArrayList;
 public class PubMedExtractor extends DocumentExtractor{
 
     private final String exprXpathMedline = "//MedlineCitationSet/MedlineCitation";
+    private final String exprXpathPubMed = "//PubmedArticleSet/PubmedArticle";
     private final String exprXpathAbstract = "//Abstract";
     private final String exprXpathTitle = "//Journal/Title";
     private final String exprXpathPmid = "//PMID";
@@ -30,7 +31,6 @@ public class PubMedExtractor extends DocumentExtractor{
     private final String exprXpathArticleTitle = "//ArticleTitle";
     private final String exprXpathAuthor = "//Author[@ValidYN='Y']";
     private final String exprXpathMesh = "//MeshHeadingList/MeshHeading";
-
 
 
     public PubMedExtractor(){
@@ -53,12 +53,14 @@ public class PubMedExtractor extends DocumentExtractor{
             //pmid
             String pmid = getTagContent(document, exprXpathPmid);
             if (pmid != null && pmid.length() > 0) {
+                pmid = idNormalizer(pmid);
                 doc.setPmid(pmid.trim());                
             }
 
             //pmc
             String pmc = getTagContent(document, exprXpathPmc);
             if (pmc != null && pmc.length() > 0) {
+                pmc = idNormalizer(pmc);
                 doc.setPmc(pmc.trim());
             }
 
@@ -83,9 +85,6 @@ public class PubMedExtractor extends DocumentExtractor{
             if (meshTerms != null && meshTerms.length > 0){
                 doc.setMeshTerms(meshTerms);
             }
-//
-//                        Reference[] refs = getReferences(doc, exprXpathRef);
-//                        doc.setReferences(refs);
 
             xpathExecutor.reset();
         }
@@ -96,15 +95,21 @@ public class PubMedExtractor extends DocumentExtractor{
     public long getArticleCount(File inputFile) {
         long count = 0;
         InputStream fileStream = IOUtil.getINSTANCE().getFileStream(inputFile);
-        NodeList medlineCitationSet = null;
+        NodeList medlineCitationSet, pubMedCitationSet = null;
         try {
             //parse original xml file
             Document doc = getParsedDocument(fileStream);
             fileStream.close();
             medlineCitationSet = (NodeList) xpathExecutor.evaluate(exprXpathMedline, doc, XPathConstants.NODESET);
+            pubMedCitationSet = (NodeList) xpathExecutor.evaluate(exprXpathPubMed, doc, XPathConstants.NODESET);
+
             if (medlineCitationSet != null) {
                 count = medlineCitationSet.getLength();
             }
+            else if(pubMedCitationSet != null){
+                count = pubMedCitationSet.getLength();
+            }
+
         } catch (XPathExpressionException ex) {
             logger.error("XPathExpressionException: could not apply xpath expression", ex);
         } catch (IOException ex) {
@@ -112,23 +117,6 @@ public class PubMedExtractor extends DocumentExtractor{
         }
 
         return count;
-    }
-
-
-    private String[] getTagList(Document document, String expathExpr) {
-        ArrayList<String> out = Lists.newArrayList();
-        NodeList nodes;
-        try {
-            nodes = (NodeList) xpathExecutor.evaluate(expathExpr, document, XPathConstants.NODESET);
-            for (int i = 0; i < nodes.getLength(); i++) {
-                Node currentNode = nodes.item(i);
-                out.add(currentNode.getTextContent());
-            }
-        } catch (XPathExpressionException ex) {
-            logger.error("XPathExpressionException: could not apply xpath expression", ex);
-        }
-
-        return out.toArray(new String[0]);
     }
 
 

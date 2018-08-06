@@ -8,25 +8,17 @@ package com.engine.biomine.indexing.tasks;
 import com.engine.biomine.common.IOUtil;
 import com.engine.biomine.indexing.IndexManager;
 import com.engine.biomine.indexing.IndexerStatus;
-import de.schlichtherle.truezip.file.TFile;
 
 import java.io.*;
-import java.util.Enumeration;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.zip.ZipEntry;
-import java.util.zip.ZipFile;
 import java.util.zip.ZipInputStream;
 
-import de.schlichtherle.truezip.file.TVFS;
-import de.schlichtherle.truezip.fs.FsSyncException;
 import org.apache.commons.compress.archivers.ArchiveEntry;
 import org.apache.commons.compress.archivers.ArchiveInputStream;
-import org.apache.commons.compress.archivers.tar.TarArchiveEntry;
 import org.apache.commons.compress.archivers.tar.TarArchiveInputStream;
-import org.apache.commons.compress.archivers.zip.ZipArchiveEntry;
-import org.apache.commons.compress.archivers.zip.ZipArchiveInputStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

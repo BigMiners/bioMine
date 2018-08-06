@@ -1,28 +1,13 @@
 package com.engine.biomine.common;
 
-import de.schlichtherle.truezip.file.TArchiveDetector;
-import de.schlichtherle.truezip.file.TConfig;
-import de.schlichtherle.truezip.file.TFile;
-import de.schlichtherle.truezip.file.TFileInputStream;
-import de.schlichtherle.truezip.fs.archive.tar.TarBZip2Driver;
-import de.schlichtherle.truezip.fs.archive.tar.TarDriver;
-import de.schlichtherle.truezip.fs.archive.tar.TarGZipDriver;
-import de.schlichtherle.truezip.socket.sl.IOPoolLocator;
-import org.apache.commons.compress.archivers.ArchiveEntry;
-import org.apache.commons.compress.archivers.ArchiveInputStream;
-import org.apache.commons.compress.archivers.tar.TarArchiveEntry;
 import org.apache.commons.compress.archivers.tar.TarArchiveInputStream;
-import org.apache.commons.compress.archivers.zip.ZipArchiveInputStream;
 import org.apache.commons.lang.StringUtils;
 import org.apache.solr.common.util.StrUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
 import java.io.*;
 import java.util.*;
 import java.util.zip.GZIPInputStream;
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipFile;
 import java.util.zip.ZipInputStream;
 
 /**
@@ -240,6 +225,7 @@ public class IOUtil {
      */
     public InputStream getFileStream(File file){
 
+
         String ext = getFileExtension(file);
         BufferedInputStream bs = null;
 
@@ -258,7 +244,7 @@ public class IOUtil {
                     return new FileInputStream(file);
             }
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            System.out.println("File was not found: " + file);
         } catch (IOException e) {
             e.printStackTrace();
         }

@@ -60,12 +60,14 @@ public class PMCExtractor extends DocumentExtractor{
             //pmid
             String pmid = getTagContent(document, exprXpathPmid);
             if (pmid != null && pmid.length() > 0) {
+                pmid = idNormalizer(pmid);
                 doc.setPmid(pmid.trim());                
             }
 
             //pmc
             String pmc = getTagContent(document, exprXpathPmc);
             if (pmc != null && pmc.length() > 0) {
+                pmc = idNormalizer(pmc);
                 doc.setPmc(pmc.trim());
             }
 
@@ -93,11 +95,6 @@ public class PMCExtractor extends DocumentExtractor{
                 doc.setKeywords(keywords);
             }
 
-//            String[] sectionTitles = getTagList(doc, exprXpathSectionTitle);
-//            if (sectionTitles != null && sectionTitles.length > 0) {
-//                doc.setBodyTitles(sectionTitles);
-//            }
-
             //body section
             String bodyText = getBodyTagContent(document, exprXpathBody);
             doc.setBody(bodyText);
@@ -117,25 +114,6 @@ public class PMCExtractor extends DocumentExtractor{
         }
         return doc;
     }
-
-
-
-    private String[] getTagList(Document document, String expathExpr) {
-        ArrayList<String> out = Lists.newArrayList();
-        NodeList nodes;
-        try {
-            nodes = (NodeList) xpathExecutor.evaluate(expathExpr, document, XPathConstants.NODESET);
-            for (int i = 0; i < nodes.getLength(); i++) {
-                Node currentNode = nodes.item(i);
-                out.add(currentNode.getTextContent());
-            }
-        } catch (XPathExpressionException ex) {
-            logger.error("XPathExpressionException: could not apply xpath expression", ex);
-        }
-
-        return out.toArray(new String[0]);
-    }
-
 
 
     private String getFloatsGroupTagContent(Document document, String expathExpr){
@@ -200,11 +178,9 @@ public class PMCExtractor extends DocumentExtractor{
     private int getPublicationDate(Document document, String yearStr) {
         int year = 0;
         try {
-//            String yearStr = getTagContent(doc, expathExpr);
             year = Integer.parseInt(yearStr.replaceAll("\\s", ""));
         } catch (Exception e) {        	
-//            logger.error("Could not retrieve publication year for ID: "
-//                + document.getElementsByTagName("article-id").item(0).getTextContent(), e);
+
         }
         return year;    
     }
